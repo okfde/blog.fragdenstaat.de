@@ -1,0 +1,37 @@
+---
+layout: base
+
+---
+
+{% for post in paginator.posts %}
+  <a href="{{ site.baseurl }}{{ post.url }}">
+    <h2>{{ post.title }}</h2>
+  </a>
+  {% if post.snapshot %}
+    <div class="snapshot">
+      <a href="{{ site.baseurl }}{{ post.url }}"><img src="/img/posts/{{ post.snapshot }}"></a>
+    </div>
+  {% endif %}
+  <div class="post">
+    {{ post.content }}
+  </div>
+  <hr/>
+{% endfor %}
+
+<ul class="pagination">
+  {% if paginator.previous_page %}
+    <li>
+      {% if paginator.previous_page == 1 %}
+        <a href="/">&laquo;</a>
+      {% else %}
+        <a href="{{ paginator.previous_page_path }}">&laquo;</a>
+      {% endif %}
+    </li>
+  {% endif %}
+
+  {% if paginator.next_page %}
+    <li>
+      <a href="{{ paginator.next_page_path }}">&raquo;</a>
+    </li>
+  {% endif %}
+</ul>

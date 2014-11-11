@@ -1,0 +1,5 @@
+permalink: /:year/:title/
+markdown: kramdown
+baseurl: "/blog.fragdenstaat.de"
+paginate: 5
+paginate_path: /page/:num
