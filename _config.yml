@@ -146,3 +146,6 @@ defaults:
     values:
       layout: "post"
       excerpt_separator: "<!--more-->"
+
+gems:
+  - jekyll-redirect-from
