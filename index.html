@@ -1,37 +1,34 @@
 ---
-layout: base
-
+layout: default
+home: true
 ---
 
+
+
 {% for post in paginator.posts %}
-  <a href="{{ site.baseurl }}{{ post.url }}">
-    <h2>{{ post.title }}</h2>
-  </a>
-  {% if post.snapshot %}
-    <div class="snapshot">
-      <a href="{{ site.baseurl }}{{ post.url }}"><img src="/img/posts/{{ post.snapshot }}"></a>
-    </div>
-  {% endif %}
-  <div class="post">
-    {{ post.content }}
-  </div>
-  <hr/>
+
+{% assign minutes = post.content | number_of_words | divided_by: 180 %}
+{% if minutes == 0 %}
+  {% assign read-time = site.var_less_than_a_minute_read %}
+{% else %}
+  {% assign read-time = minutes | append: "&nbsp;" | append: site.var_min_read %}
+{% endif %}
+
+  <article>
+    <span class="meta">
+      {{ post.date | date: site.date_format }} • {{ read-time }}</span>
+  	<a href="{{ post.url | prepend: site.baseurl }}"><h1>{{ post.title }}</h1></a>
+      <p>
+      {% if post.summary %}
+        {{ post.summary }}&nbsp;<a class="read-more" href="{{ post.url | prepend: site.baseurl }}">{{ site.var_read }}  →</a>
+      {% else %}
+        {{ post.excerpt }}&nbsp;<a class="read-more" href="{{ post.url | prepend: site.baseurl }}">{{ site.var_read }}  →</a>
+      {% endif %}
+      </p>
+
+  </article>
 {% endfor %}
 
-<ul class="pagination">
-  {% if paginator.previous_page %}
-    <li>
-      {% if paginator.previous_page == 1 %}
-        <a href="/">&laquo;</a>
-      {% else %}
-        <a href="{{ paginator.previous_page_path }}">&laquo;</a>
-      {% endif %}
-    </li>
-  {% endif %}
-
-  {% if paginator.next_page %}
-    <li>
-      <a href="{{ paginator.next_page_path }}">&raquo;</a>
-    </li>
-  {% endif %}
-</ul>
+{% if paginator.previous_page or paginator.next_page %}
+  {% include pagination.html %}
+{% endif %}

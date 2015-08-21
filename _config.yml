@@ -1,5 +1,148 @@
-permalink: /:year/:title/
-markdown: kramdown
+
+# The name of your website.
+name: Frag den Staat
+
+description:
+
+  # Discription of your site, this will show up in google.
+  meta: Das Blog zum Informationsfreiheitsportal FragDenStaat.de
+
+  # Discription of your site, this will show up on the front page.
+  subtitle: Das Blog zum Informationsfreiheitsportal FragDenStaat.de
+
+author:
+  name: FragDenStaat.de
+
+  # Necessary for contact page
+  email: mail@fragdenstaat.de
+
+  # Optional text (html) to dislay after author name. Leave empty if you don't
+  # want it.
+  info:
+
+url: http://blog.fragdenstaat.de
 baseurl: "/blog.fragdenstaat.de"
+
+# language attribute in <html> element.
+lang: de
+
+# FROM THIS POINT ON EVERYTHING IS OPTIONAL
+
+##############
+# APPEREANCE #
+##############
+
+# If you want to show the subtitle anywhere else than the front page, use
+# {% include subtitle.html %} to include it anywhere you want.
+show-subtitle: true
+display-social-icons: true
+
+footer-text: <strong><a href="https://fragdenstaat.de/">FragDenStaat.de</a></strong><br/> Jekyll theme crafted by <a href="http://steinvc.github.io/holo-alfa/">Stijn</a>.
+
+# Preferrably 64px in height. Leave empty = disbale.
+logo-image: # /img/logo.png
+
+# Toolbar color for Chrome on Android.
+theme-color-attr: "#06C"
+
+# Color of Microsoft live Tile.
+ms-tile-color: "#06C"
+
+# Color used throughout the theme. Format: R, G, B.
+theme-color: 0, 102, 204 # Original: 0, 240, 255
+
+# Text color used throughout the theme. Format: R, G, B.
+text-color: 0, 0, 0 # Original: 0, 0, 0
+
+# Background color used throughout the theme. Format: R, G, B.
+# Note: if you change the background color AND you use cover images, you should
+#       also change the CSS gradient in "_includes\gradient.css" to match the
+#       background color. Edit and copy it from here:
+#       http://www.colorzilla.com/gradient-editor/#ffffff+0,ffffff+100&0+0,1+100
+background-color: 255, 255, 255 # Original: 255, 255, 255
+
+display-author-post-page: true
+display-author-front-page: true
+
+# http://alanwsmith.com/jekyll-liquid-date-formatting-examples
+date_format: "%d.%m.%Y"
+
+# Minimal screen-width after wich the navigation will change position from
+# vertical to horizontal.
+nav-breaking-point: 520px
+
+# Number of posts on each page.
 paginate: 5
-paginate_path: /page/:num
+
+# Display links for the previous and next post on post pages.
+display-next-prev-post: false
+
+# Leave empty if you don't want comments on post pages.
+disqus-shortname:
+
+
+################
+# SOCIAL ICONS #
+################
+
+# Use a complete url here, including http:// and such. Requiring just usernames
+# has been considered, but this is way more customizable.
+twitter: fragdenstaat
+youtube:
+instagram:
+tumblr:
+facebook:
+google-plus:
+reddit:
+soundcloud:
+medium:
+linkedin:
+github:
+behance:
+codepen:
+dribbble:
+trello:
+stack-overflow:
+bitcoin:
+paypal:
+
+
+#####################
+# CUSTOMIZABLE TEXT #
+#####################
+
+# Usefull for translating into other languages.
+
+var_on_the_web: On the web
+var_read: Lesen # Text after each post summary on the homepage.
+var_newer: Neuer
+var_older: Älter
+var_next_post: Next post
+var_previous_post: Previous post
+var_less_than_a_minute_read: Weniger als eine Minute Lesezeit
+var_min_read: Minuten Lesezeit # Text after reading time. Example: 5 min read.
+var_post_by: Post von
+var_guest_post_by: Gastbeitrag von
+var_your_email: Deine E-Mail
+var_your_message: Deine Nachricht
+
+
+##################
+# BUILD SETTINGS #
+##################
+
+# You don't have to change these.
+
+highlighter: pygments
+kramdown:
+  input: GFM
+paginate_path: "/page/:num"
+permalink: /:year/:title/
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      excerpt_separator: "<!--more-->"
