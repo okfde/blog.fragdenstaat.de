@@ -21,7 +21,7 @@ author:
   info:
 
 url: http://blog.fragdenstaat.de
-baseurl: "/blog.fragdenstaat.de"
+baseurl: ""
 
 # language attribute in <html> element.
 lang: de
