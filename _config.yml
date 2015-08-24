@@ -8,7 +8,7 @@ description:
   meta: Das Blog zum Informationsfreiheitsportal FragDenStaat.de
 
   # Discription of your site, this will show up on the front page.
-  subtitle: Das Blog zum Informationsfreiheitsportal <a href="https://fragdenstaat.de/">FragDenStaat.de</a>
+  subtitle: <br>Das Blog zum Informationsfreiheitsportal <a href="https://fragdenstaat.de/">FragDenStaat.de</a>
 
 author:
   name: FragDenStaat.de
