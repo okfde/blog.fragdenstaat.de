@@ -1,6 +1,6 @@
 
 # The name of your website.
-name: Frag den Staat
+name:
 
 description:
 
@@ -8,7 +8,7 @@ description:
   meta: Das Blog zum Informationsfreiheitsportal FragDenStaat.de
 
   # Discription of your site, this will show up on the front page.
-  subtitle: Das Blog zum Informationsfreiheitsportal FragDenStaat.de
+  subtitle: Das Blog zum Informationsfreiheitsportal <a href="https://fragdenstaat.de/">FragDenStaat.de</a>
 
 author:
   name: FragDenStaat.de
@@ -113,12 +113,12 @@ paypal:
 
 # Usefull for translating into other languages.
 
-var_on_the_web: On the web
+var_on_the_web: Auf Twitter
 var_read: Lesen # Text after each post summary on the homepage.
 var_newer: Neuer
 var_older: Älter
-var_next_post: Next post
-var_previous_post: Previous post
+var_next_post: Nächster Post
+var_previous_post: Vorheriger Post
 var_less_than_a_minute_read: Weniger als eine Minute Lesezeit
 var_min_read: Minuten Lesezeit # Text after reading time. Example: 5 min read.
 var_post_by: Post von
