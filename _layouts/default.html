@@ -5,8 +5,10 @@
 </head>
 <body>
 	{% if page.cover-image %}
-	<div class="cover-image-container" onclick="window.location='{{ site.baseurl }}';">
+	<div class="cover-image-container">
+		<a href="http://blog.fragdenstaat.de" class="cover-image-container">
 		<img alt="Cover image" src="{{ site.baseurl }}/img/covers/{{ page.cover-image }}">
+		</a>
 	</div>
 	
 	{% endif %}
