@@ -233,6 +233,10 @@ hr {
   {% include gradient.css %}
 }
 
+.myspan {
+    display: block;
+}
+
 /* Structure */
 
 .wrap {
