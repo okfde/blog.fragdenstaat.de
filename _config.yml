@@ -1,6 +1,6 @@
 
 # The name of your website.
-name:
+name: FragDenStaat.de Blog
 
 description:
 
@@ -40,7 +40,7 @@ display-social-icons: true
 footer-text: <strong><a href="https://fragdenstaat.de/">FragDenStaat.de</a></strong><br/> Jekyll theme crafted by <a href="http://steinvc.github.io/holo-alfa/">Stijn</a>.
 
 # Preferrably 64px in height. Leave empty = disbale.
-logo-image: # /img/logo.png
+logo-image: /img/blog_header.png
 
 # Toolbar color for Chrome on Android.
 theme-color-attr: "#06C"

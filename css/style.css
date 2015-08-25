@@ -256,10 +256,6 @@ header {
   position: relative;
   color: rgba({{ site.text-color }},.5);
 }
-header img {
-  height: 32px;
-  display: inline-block;
-}
 nav {
   margin: 20px 0;
 }
@@ -378,7 +374,7 @@ nav a.current {
   color: rgba({{ site.text-color }}, .76)
 }
 .subtitle {
-  margin: 30px 0;
+  margin: 10px 0;
   color: rgba({{ site.text-color }},.5);
 }
 .subtitle a {
@@ -407,7 +403,6 @@ nav a.current {
   footer .inner {
     padding: 0 30px;
   }
-  .subtitle,
   .fluid-width-video-wrapper,
   ol,
   ul,
@@ -473,7 +468,7 @@ nav a.current {
     padding: 5px 8px;
   }
   .website-title {
-    margin-bottom: 80px;
+    margin-bottom: 20px;
   }
 }
 @media all and (min-width: 760px) {
