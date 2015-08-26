@@ -17,4 +17,5 @@ Wir haben sie also mit in unser System aufgenommen. Fragt die Olympia-Bewerber!
 Bis die Gesellschaft eigene Kontaktdaten hat, gehen Anfragen an sie erst einmal an die Hamburger Behörde für Inneres und Sport.
 
 [Betreibergesellschaft auf FragDenStaat anfragen](https://fragdenstaat.de/behoerde/bewerbungsgesellschaft-hamburg-2024-gmbh/)
+
 [mehr Infos zur Bewerbungsgesellschaft](http://www.elbmelancholie.de/2015/07/04/olympia-bewerbungsgesellschaft-stadt-hamburg-muss-im-zweifel-budget-nachschiessen-09869/)
