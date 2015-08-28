@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lobbyismus: Das Verteidungsministerium und ThyssenKrupp
+title: Das Verteidungsministerium und ThyssenKrupp
 date: '2015-01-01T15:11:54+01:00'
 tags:
 ---
