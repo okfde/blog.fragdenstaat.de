@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Darum brauchen wir die Originale: Wir veröffentlichen Gutachten zum Bundespräsidenten
+title: Wir veröffentlichen Gutachten zum Bundespräsidenten
 date: '2015-08-26T15:39:21+02:00'
 tags: []
 
