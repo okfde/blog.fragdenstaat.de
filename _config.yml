@@ -136,6 +136,7 @@ var_your_message: Deine Nachricht
 highlighter: pygments
 kramdown:
   input: GFM
+  smart_quotes: ["sbquo", "lsquo", "bdquo", "ldquo"]
 paginate_path: "/page/:num"
 permalink: /:year/:title/
 defaults:
