@@ -5,9 +5,9 @@ date: '2015-01-01T15:11:54+01:00'
 tags:
 ---
 
-Der Vorstandsvorsitzende von ThyssenKrupp, Heinrich Hiesinger, dankte kürzlich Bundesverteidigungsministerin von der Leyen für die "hervorragende Flankierung des Projektes durch Ihr Haus". Es ging um [Unterstützung des Ministeriums für den Rüstungskonzern] (http://www.spiegel.de/wirtschaft/soziales/bundeswehr-foerdert-exporte-deutscher-ruestungsfirmen-a-1046170.html) beim Verkauf von Fregatten und U-Booten.
+Der Vorstandsvorsitzende von ThyssenKrupp, Heinrich Hiesinger, dankte kürzlich Bundesverteidigungsministerin von der Leyen für die "hervorragende Flankierung des Projektes durch Ihr Haus". Es ging um [Unterstützung des Ministeriums für den Rüstungskonzern](http://www.spiegel.de/wirtschaft/soziales/bundeswehr-foerdert-exporte-deutscher-ruestungsfirmen-a-1046170.html) beim Verkauf von Fregatten und U-Booten.
 
-Wir stellten eine [IFG-Anfrage nach dem besagten Briefwechsel] (https://fragdenstaat.de/anfrage/korrespondenz-von-bundesministerin-von-der-leyen-mit-thyssenkrupp/) und weiterer Korrespondenz zwischen Ministerin und ThyssenKrupp.
+Wir stellten eine [IFG-Anfrage nach dem besagten Briefwechsel](https://fragdenstaat.de/anfrage/korrespondenz-von-bundesministerin-von-der-leyen-mit-thyssenkrupp/) und weiterer Korrespondenz zwischen Ministerin und ThyssenKrupp.
 
 Die Antwort des Verteidigungsministeriums: Da müssen wir erst ThyssenKrupp fragen.
 
