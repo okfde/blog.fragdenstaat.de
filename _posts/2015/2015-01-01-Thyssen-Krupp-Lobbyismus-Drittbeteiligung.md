@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lobbyismus: Verteidungsministerium bittet ThyssenKrupp um Freigabe
+title: Lobbyismus: Das Verteidungsministerium und ThyssenKrupp
 date: '2015-01-01T15:11:54+01:00'
 tags:
 ---
