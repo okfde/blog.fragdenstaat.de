@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IFG-Verzögerung des Tages: Verteidungsministerium bittet ThyssenKrupp um Freigabe
+title: Lobbyismus: Verteidungsministerium bittet ThyssenKrupp um Freigabe
 date: '2015-01-01T15:11:54+01:00'
 tags:
 ---
