@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Lobbyismus: von der Leyen und ThyssenKrupp
-date: '2015-01-01T15:11:54+01:00'
+title: Lobbyismus: Das Verteidigungsministerium und ThyssenKrupp
+date: '2015-05-01T15:11:54+01:00'
 tags:
 ---
 
