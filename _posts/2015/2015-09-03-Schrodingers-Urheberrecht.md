@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BMI würde uns auch ohne Grund wieder verklagen
+title: BMI würde uns auch ohne Grund wieder abmahnen
 date: '2015-09-03T15:39:21+02:00'
 tags: [Urheberrecht]
 
