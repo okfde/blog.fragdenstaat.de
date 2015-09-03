@@ -16,4 +16,4 @@ Die janusköpfige Antwort der Regierung: Man halte an der bisherigen Rechtsauffa
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-Heißt also: Das BMI würde uns wieder verklagen -- wegen der Veröffentlichung eines gemeinfreien Dokuments.
+Heißt also: Das BMI würde uns wieder abmahnen -- wegen der Veröffentlichung eines gemeinfreien Dokuments.
