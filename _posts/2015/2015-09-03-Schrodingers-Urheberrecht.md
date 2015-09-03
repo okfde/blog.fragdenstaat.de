@@ -5,7 +5,7 @@ date: '2015-09-03T15:39:21+02:00'
 tags: [Urheberrecht]
 
 ---
-Das BMI zog im vergangenen Jahr wegen einer angeblichen [Zensurheberrechts-Verletzung](http://fragdenstaat.de/zensurheberrecht/) gegen uns vor Gericht. Es ging dabei um die Veröffentlichung eines Gutachtens aus dem Innenministerium (BMI) auf FragDenStaat.de.
+Das Innenministerium (BMI) zog im vergangenen Jahr wegen einer angeblichen [Zensurheberrechts-Verletzung](http://fragdenstaat.de/zensurheberrecht/) gegen uns vor Gericht. Es ging dabei um die Veröffentlichung eines Gutachtens aus dem BMI auf FragDenStaat.de.
 
 Die Bundestags-Abgeordnete Hanna Wawzyniak [fragte vor zwei Wochen bei der Bundesregierung nach](http://dip21.bundestag.de/dip21/btd/18/058/1805804.pdf#23), ob diese weiterhin der Meinung sei, dass es sich um eine Urheberrechtsverletzung handelt und ob eine Weiterverwendung des Dokuments [nach dem Informationsweiterverwendungsgesetz (IWG)](http://okfn.de/blog/2015/05/stellungnahme-iwg-bundestag-2015/) möglich sei.
 
