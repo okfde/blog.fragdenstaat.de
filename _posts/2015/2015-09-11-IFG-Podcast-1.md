@@ -6,7 +6,7 @@ tags: [IFG, Podcast]
 
 ---
 
-In unserem ersten [IFG-Podcast](https://soundcloud.com/fragdenstaat/ifg-podcast-1-es-ware-toll-wenn-ihr-uns-verklagt) sprechen wir mit Daniel Drepper vom gemeinnützigen Recherchebüro CORRECT!V über seine Klagen nach dem Informationsfreiheitsgesetz und warum es sich manchmal lohnt, gerichtlich gegen den Staat vorzugehen.
+In unserem ersten [IFG-Podcast](https://soundcloud.com/fragdenstaat/ifg-podcast-1-es-ware-toll-wenn-ihr-uns-verklagt) sprechen wir mit Daniel Drepper vom gemeinnützigen Recherchebüro [CORRECT!V](http://correctiv.org/) über seine Klagen nach dem Informationsfreiheitsgesetz und warum es sich manchmal lohnt, gerichtlich gegen den Staat vorzugehen.
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/223063085&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
