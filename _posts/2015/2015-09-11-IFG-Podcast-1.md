@@ -12,6 +12,8 @@ In unserem ersten [IFG-Podcast](https://soundcloud.com/fragdenstaat/ifg-podcast-
 
 Wir freuen uns über Feedback! (Und brauchen auch noch einen guten Jingle.)
 
+[Link zum Abonnieren](http://feeds.soundcloud.com/users/soundcloud:users:173393422/sounds.rss)
+
 Die Links:
 
 - [Correctiv: Geheimniskrämer - warum wir uns sorgen](https://correctiv.org/blog/2015/08/30/pressefreiheit-warum-wir-uns-sorgen/)
