@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IFG-Podact N°1: "Es wäre toll, wenn ihr uns verklagt!"
+title: "Es wäre toll, wenn ihr uns verklagt!"
 date: '2015-09-11T10:39:21+02:00'
 tags: [IFG, Podcast]
 
