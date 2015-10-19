@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bundestagsgutachten zu verdeckten Polizei-Ermittlern veröffentlicht"
-date: '2015-09-28T10:39:21+02:00'
+date: '2015-10-19T10:39:21+02:00'
 tags: []
 
 ---
