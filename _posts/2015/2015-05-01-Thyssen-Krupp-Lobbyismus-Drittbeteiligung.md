@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lobbyismus: Das Verteidigungsministerium und ThyssenKrupp
+title: "Lobbyismus: Das Verteidigungsministerium und ThyssenKrupp"
 date: '2015-05-01T15:11:54+01:00'
 tags:
 ---
@@ -11,13 +11,13 @@ Wir stellten eine [IFG-Anfrage nach dem besagten Briefwechsel](https://fragdenst
 
 Die Antwort des Verteidigungsministeriums: Da müssen wir erst ThyssenKrupp fragen.
 
-Das Vorgehen des Ministeriums nennt sich Drittbeteiligungsverfahren. Es ist nach dem Informationsfreiheitsgesetz dann durchzuführen, wenn zum Beispiel Unternehmen ein "schutzwürdiges Interesse" daran haben, dass Informationen nicht veröffentlicht werden. 
+Das Vorgehen des Ministeriums nennt sich Drittbeteiligungsverfahren. Es ist nach dem Informationsfreiheitsgesetz dann durchzuführen, wenn zum Beispiel Unternehmen ein "schutzwürdiges Interesse" daran haben, dass Informationen nicht veröffentlicht werden.
 
 Wäre mit der Veröffentlichung von Lobbyisten-Briefen ein "schutzwürdiges Interesse" von ThyssenKrupp berührt? Das Bundeskanzleramt zum Beispiel [veröffentlicht auch ohne Drittbeteiligung](https://fragdenstaat.de/anfrage/informationsfreiheitsanfrage-zur-monitor-pressemeldung/) Lobby-Korrespondenz.
 
-Das große Problem bei der Drittbeteiligung: Durch solch einen Vorgang können Ministerien über den Umweg über Unternehmen Dokumente geheimhalten. 
+Das große Problem bei der Drittbeteiligung: Durch solch einen Vorgang können Ministerien über den Umweg über Unternehmen Dokumente geheimhalten.
 
-Außerdem kostet das Verfahren Arbeitszeit. Und das stellen die Ministerien dann [gerne den Antragsstellern in Rechnung](https://fragdenstaat.de/files/foi/18254/AufklrungsschreibenDrittbeteiligung-AnhrungKosten_geschwaerzt.pdf). 
+Außerdem kostet das Verfahren Arbeitszeit. Und das stellen die Ministerien dann [gerne den Antragsstellern in Rechnung](https://fragdenstaat.de/files/foi/18254/AufklrungsschreibenDrittbeteiligung-AnhrungKosten_geschwaerzt.pdf).
 Nicht zuletzt wird auf diese Weise das Verfahren verzögert. Wird anderen Personen die Möglichkeit zur Stellungnahme geboten, bevor Informationen veröffentlicht werden, wird die Frist von einem Monat bis zur Veröffentlichung aufgehoben.
 
 Heißt also: es kann teurer werden und dauert länger.
