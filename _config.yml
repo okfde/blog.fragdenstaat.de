@@ -150,3 +150,4 @@ defaults:
 
 gems:
   - jekyll-redirect-from
+  - jekyll-feed
