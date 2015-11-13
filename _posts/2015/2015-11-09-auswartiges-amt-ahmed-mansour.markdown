@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beziehungen zu ägyptischem Regime wichtiger als Transparenz"
-date: '2014-11-03T12:16:23+02:00'
+date: '2015-11-13T12:16:23+02:00'
 tags: []
 
 ---
