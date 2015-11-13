@@ -14,3 +14,5 @@ Wir wollten Einsicht in die Verbalnoten vom Auswärtigen Amt erhalten. Unser <a 
 An dieser Absage zeigt sich die Zahnlosigkeit des Informationsfreiheitsgesetzes im Bereich der internationalen Beziehungen: Nach einem <a href="http://www.lda.brandenburg.de/media_fast/5955/BVerwG_7_C_22_08.pdf">Urteil des Bundesverwaltungsgerichts</a> haben Behörden nämlich einen großen eigenen Spielraum in der Frage, was nachteilige Auswirkungen auf internationale Beziehungen sind. Auch eine Klage gegen die Absage wäre vermutlich sinnlos. Die Justiz kann solche Einschätzungen laut dem Gericht nämlich "nur eingeschränkt" nachprüfen. 
 
 Und so schützt das Auswärtige Amt erfolgreich seine Beziehungen zum ägyptischen Regime - auf Kosten der demokratischen Kontrolle in Deutschland.
+
+Weil das Verfahren aber so lange dauerte, haben wir jetzt <a href="https://fragdenstaat.de/anfrage/interner-mailverkehr-des-aa-zu-ifg-anfrage-bzgl-ahmed-mansour/#nachricht-35521">einen IFG-Antrag auf Einsicht in den internen Schriftverkehr zur Beantwortung der Anfrage</a> gestellt.
