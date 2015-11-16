@@ -6,7 +6,7 @@ tags: [bpb]
 
 ---
 
-Im Juli verbot das Bundesinnenministerium der Bundeszentrale für politische Bildung (bpb) den Vertrieb ihres Hefts "Ökonomie und Gesellschaft". 
+Im Juli <a href="https://netzpolitik.org/2015/zur-netzpolitischen-dimension-9-des-bands-oekonomie-und-gesellschaft-und-der-internationalen-studierendeninitiative-fuer-pluralismus-in-der-oekonomie/">verbot das Bundesinnenministerium der Bundeszentrale für politische Bildung (bpb) den Vertrieb</a> ihres Hefts "Ökonomie und Gesellschaft". 
 Hintergrund war ein Beschwerdebrief der Deutschen Arbeitgeberverbände (BDA), die eine angebliche Einseitigkeit der Publikation und fehlende Wirtschaftsfreundlichkeit monierten. Ironischerweise erreichte der Wirtschaftsverband mit seiner Kritik daran, dass Lobbyismus in dem Heft als zu negativ dargestellt wird, ein Vertriebsverbot einer staatlichen Publikation.
 
 <a href="https://fragdenstaat.de/anfrage/vertriebsverbot-der-sammelpublikation-okonomie-und-gesellschaft/">Per IFG-Anfrage</a> haben wir sämtlichen Schriftverkehr und alle Vermerke zu diesem Fall erhalten, mit dem sich der Ablauf des Verbots nachzeichnen lässt:
