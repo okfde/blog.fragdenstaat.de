@@ -37,7 +37,7 @@ p, form {
   word-wrap: break-word;
 }
 p * {
-  line-height: 1em; /* Bold font line-height fix */
+  line-height: 0.8em; /* Bold font line-height fix */
 }
 strong {
   font-weight: 700;
@@ -473,7 +473,7 @@ nav a.current {
 }
 @media all and (min-width: 760px) {
   h1 {
-    font-size: 2.0em;
+    font-size: 1.3em;
   }
   article:last-of-type::after {
     content: "";
