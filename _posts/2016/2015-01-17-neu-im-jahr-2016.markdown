@@ -5,6 +5,10 @@ date: '2016-01-05T12:16:23+02:00'
 tags: [2016]
 
 ---
-Mit dem neuen Jahr gibt es ein paar Änderungen in der Welt der Informationsfreiheit und damit auch auf FragDenStaat: Mit dem neuen Transparenzgesetz in Rheinland-Pfalz haben wir auch den Antragstext für Behörden in dem land angepasst. Das gleiche gilt für das neue Informationsfreiheitsgesetz in Baden-Württemberg. Eine Übersicht über die aktuelle gesetzliche Lage in Deutschland <a href="https://fragdenstaat.de/ifg-stand">gibt es hier</a>.
+Mit dem neuen Jahr gibt es ein paar Änderungen in der Welt der Informationsfreiheit und damit auch auf FragDenStaat: Mit dem neuen Transparenzgesetz in Rheinland-Pfalz haben wir auch den Antragstext für Behörden in dem land angepasst. Das gleiche gilt für das neue Informationsfreiheitsgesetz (IFG) in Baden-Württemberg. Eine Übersicht über die aktuelle gesetzliche Lage in Deutschland <a href="https://fragdenstaat.de/ifg-stand">gibt es hier</a>.
+
+Zum 10-jährigen Jubiläum des IFG auf Bundesebene ist die Bundesbeauftragte für Datenschutz und Informationsfreiheit am 1. Januar zur Obersten Bundesbehörde aufgestiegen. Sie unterliegt damit nicht mehr der Aufsicht den Innenministeriums. Wir hoffen, dass die damit verbunden Aufstockung der Personalressourcen auch der Informationsfreiheit zugute kommen.
+
 Außerdem haben wir die Plattform <a href="http://verklagdenstaat.de">VerklagDenStaat.de</a> gegründet, auf der wir Ressourcen für Klagen nach dem informationsgesetz sammeln wollen. Mehr dazu in unserem Vortrag beim Kongress 32c3: <a href="https://media.ccc.de/v/32c3-7102-crypto_ist_abwehr_ifg_ist_angriff#video&t=0">Hier anschauen</a>.
+
 Noch interessant in diesem Jahr: Im September wählt Berlin ein neues Abgeordnetenhaus. Bald stellt sich heraus, welche der Parteien im Wahlkampf und danach mit einem Transparenzgesetz punkten wollen.
