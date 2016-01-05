@@ -5,7 +5,7 @@ date: '2016-01-05T12:16:23+02:00'
 tags: [2016]
 
 ---
-Mit dem neuen Jahr gibt es ein paar Änderungen in der Welt der Informationsfreiheit und damit auch auf FragDenStaat: Mit dem neuen Transparenzgesetz in Rheinland-Pfalz haben wir auch den Antragstext für Behörden in dem land angepasst. Das gleiche gilt für das neue Informationsfreiheitsgesetz (IFG) in Baden-Württemberg. Eine Übersicht über die aktuelle gesetzliche Lage in Deutschland <a href="https://fragdenstaat.de/ifg-stand">gibt es hier</a>.
+Mit dem neuen Jahr gibt es ein paar Änderungen in der Welt der Informationsfreiheit und damit auch auf FragDenStaat: Mit dem neuen Transparenzgesetz in Rheinland-Pfalz haben wir auch den Antragstext für Behörden in dem Land angepasst. Das gleiche gilt für das neue Informationsfreiheitsgesetz (IFG) in Baden-Württemberg. Eine Übersicht über die aktuelle gesetzliche Lage in Deutschland <a href="https://fragdenstaat.de/ifg-stand">gibt es hier</a>.
 
 Zum 10-jährigen Jubiläum des IFG auf Bundesebene ist die Bundesbeauftragte für Datenschutz und Informationsfreiheit am 1. Januar zur Obersten Bundesbehörde aufgestiegen. Sie unterliegt damit nicht mehr der Aufsicht den Innenministeriums. Wir hoffen, dass die damit verbunden Aufstockung der Personalressourcen auch der Informationsfreiheit zugute kommen.
 
