@@ -133,7 +133,7 @@ var_your_message: Deine Nachricht
 
 # You don't have to change these.
 
-highlighter: pygments
+highlighter: rouge
 kramdown:
   input: GFM
   smart_quotes: ["sbquo", "lsquo", "bdquo", "ldquo"]
