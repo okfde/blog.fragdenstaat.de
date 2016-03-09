@@ -33,7 +33,7 @@ Wie stehen die großen Parteien (jene, die laut Prognose mit über 3% der Stimme
 
 Diese Fragen wollen wir mit einen Blick in die aktuelle Wahlprogramme erörtern.
 
-<h2>Baden-Württemberg</h2>
+<h3>Baden-Württemberg</h3>
 <h3>AfD</h3>
 Im Wahlprogramm findet sich hierzu kein direkter Hinweis.
 <h3>CDU</h3>
@@ -41,7 +41,9 @@ Im Wahlprogramm findet sich hierzu kein direkter Hinweis.
 <h3>DIE LINKE</h3>
 Die <a href="http://bw-plus-sozial.de/wordpress/wp-content/uploads/2016/01/LINKE_PROGRAMM.pdf ">Forderungen der Linken</a> finden sich gleich unter zwei Punkten. Zuerst unter 10.2. „Demokratie erfordert Transparenz“:
 „Erst ganz kurz vor der Landtagswahl trat nach einer langen Hängepartie ein „Informationsfreiheitsgesetz“ in Kraft, das den Namen nicht verdient. Es wird von Fachverbänden als völlig ungenügend und als „das schlechteste in Deutschland“ bezeichnet. Wir fordern ein umfassendes und bürger- freundliches Informations- und Transparenzgesetz nach dem Vorbild der Bundesländer Hamburg und Rheinland-Pfalz. Das Informationsfreiheitsgesetz muss gewährleisten, dass Anfragen nur abgelehnt werden dürfen, wenn die öffentliche Sicherheit unmittelbar gefährdet ist. Der Verfassungsschutz darf gerade nach dem NSU Skandal nicht grundsätzlich aus- genommen werden. Für Verträge und Geschäftsgeheimnisse muss es eine Abwägungsklausel geben, so dass diese bei hohem öffentlichem Interesse veröffentlicht werden müssen. Es muss eine Obergrenze für die erhobenen Verwaltungsgebühren für alle Anfragen nach dem Informationsfreiheitsgesetz geben.“
+
 „Die Wahrung der Informationsfreiheit als Recht der in Baden-Württemberg lebenden Menschen, sowie als Pflicht der Regierung wird bei den Datenschutzbeauftragten angesiedelt. Diese Behörde soll in völliger Unabhängigkeit von Regierungsvorgaben diese Aufgabe übernehmen.“
+
 Weiter heißt es im Kapitel 14.4 „Für Informationsfreiheit und freie Software“:
 „Damit alle Menschen an demokratischen Entscheidungsprozessen gestaltend teilnehmen können, müssen die Defizite beim Informationszugang endlich abgebaut werden. Das Informationsfreiheitsgesetz der Landesregierung greift da zu kurz. Wir wollen im nächsten Landtag ein echtes Informationsfreiheitsgesetz fordern.“
 <h3>FDP</h3>
@@ -49,6 +51,7 @@ Im Wahlprogramm findet sich hierzu kein direkter Hinweis.
 <h3>Bündnis 90/DIE GRÜNEN
 </h3>
 Unter dem Kapitel „Keine Sicherheit ohne Freiheit, keine Freiheit ohne Sicherheit“ werden die <a href="https://www.gruene-bw.de/app/uploads/2016/01/GrueneBW-Landtagswahlprogramm-2016.pdf ">grundsätzlichen Ziele</a> aufgeführt: „Unser Ziel ist im Gegenteil die Digitalisierung aller Lebensbereiche freiheitlich zu gestalten und so die digitalen Bürgerrechte zu verwirklichen. Ob Datenschutz in sozialen Netzwerken und Verbraucherschutz, ob bei Transparenz durch Informationsfreiheit, Open Data und Whistleblowing, ob beim Schutz vor Massenüberwachung und dem Widerstand gegen die anlasslose Vorratsdatenspeicherung: Wir kämpfen für die großen Freiheitspotenziale, die uns die Digitalisierung eröffnet.“
+
 Weiter heißt es bei „Engagiert und transparent für mehr Bürgerrechte“:
 „Wir GRÜNE sehen die Informationsfreiheit als Grundrecht in einer Wissensgesellschaft an. Sie stellt einen Grundpfeiler echter, wirkungsvoller Bürgerbeteiligung dar und bildet damit einen wesentlichen Baustein für unsere Politik des Gehörtwerdens. In Baden-Württemberg mit seiner aktiven Bürgergesellschaft und seiner wissensbasierten Wirtschaft müssen Informationen erst recht transparent aufbereitet sein. Mit der Einführung des Informationsfreiheitsgesetzes haben wir einen wichtigen Schritt in diese Richtung gemacht. Wir werden es in den nächsten Jahren gezielt weiterentwickeln, insbesondere durch eine weitere Stärkung der aktiven Veröffentlichungspflicht der Verwaltungen.“
 <h3>SPD</h3>
@@ -57,8 +60,8 @@ Im Wahlprogramm findet sich hierzu kein direkter Hinweis.
 Fazit für Baden-Württemberg</h3>
 Anhand der vorliegenden Aussagen erkennt man, dass bisher nur die Linke und die Grünen Position zum LIFG bezogen haben, und enstprechend Formulierungen für eine Anpassung bereitstellen. Hierbei fordert die derzeit in Opposition stehende Linke maßgebliche Verbesserungen ein. Die regierenden Grünen stellen sich eine Weiterentwicklung in den nächsten Jahren vor.
 
-<h2>Rheinland-Pfalz
-</h2><h3>AfD</h3>
+<h3>Rheinland-Pfalz
+</h3><h3>AfD</h3>
 Im Wahlprogramm findet sich hierzu kein direkter Hinweis.
 <h3>CDU
 </h3>Im Wahlprogramm findet sich hierzu kein direkter Hinweis.
@@ -69,12 +72,17 @@ Im Wahlprogramm findet sich hierzu kein direkter Hinweis.
 <h3>Bündnis 90/DIE GRÜNEN
 </h3>Gleich ein <a href="https://gruenes-cms.de/userspace/RP/lv_rlp/Downloads/LTW-Programm_2016_web_final.pdf ">ganzes Kapitel</a> mit dem Namen „Transparenzgesetz: Mit einem Klick zur transparenten Verwaltung“ widmet sich dem LIFG.
 „Das erste Transparenzgesetz für Rheinland-Pfalz ist ein GRÜNER Meilenstein für eine neue Kultur der Offenheit und Partizipation in den Verwaltungen. Die Holschuld der Bürgerinnen und Bürger wird dabei durch eine aktive Bringschuld der öffentlichen Verwaltungen abgelöst. Das heißt, nicht die Bürgerin oder der Bürger muss aktiv werden, um Informationen bei der Verwaltung zu beantragen, sondern die Verwaltung veröffentlicht diese von sich aus.
+
 Rheinland-Pfalz ist das erste Flächenbundesland mit Transparenzgesetz. Mit dem Transparenzgesetz erreichen wir, dass staatliches Handeln grundsätzlich öffentlich nachvollziehbar ist, private Daten jedoch geschützt werden. Das trägt auch zur Förderung der demokratischen Meinungsbildung bei. Schon der Prozess der Entstehung des Transparenzgesetzes ist vorbildlich in Sachen Transparenz und Beteiligung. Erstmals konnten sich Bürgerinnen und Bürger aktiv in die Gestaltung des Gesetzes einbringen. Dafür hat die Landesregierung eine Online-Beteiligung, Workshops und andere Beteiligungsformen durchgeführt. Diese Art von Beteiligung soll als Beispiel für kommende wichtige Gesetzgebungsverfahren dienen. Die Umsetzung des Transparenzgesetzes werden wir intensiv begleiten. Darüber hinaus werden wir uns für weitere Schritte hin zu mehr staatlicher Transparenz einsetzen.
+
 Das „Open-Government-Data-Portal Rheinland-Pfalz“ muss kontinuierlich weiterentwickelt werden, um den Grundsätzen von Open Data gerecht zu werden. Nach und nach wollen wir die Aufbereitung und Veröffentlichung von mehr Daten und eine bessere Nutzerfreundlichkeit des Portals erreichen.
+
 Damit die Bürgerinnen und Bürger sich über ihre konkreten Informationsrechte kundig machen können, haben wir die Einsetzung eines Informationsfreiheitsbeauftragten durchgesetzt. Diese Funktion ist nun beim Datenschutzbeauftragten angesiedelt, der nur dem Parlament gegenüber verantwortlich ist. Er nimmt eine unabhängige und vermittelnde Position zwischen den Bürgerinnen und Bürgern einerseits und den Behörden andererseits ein und garantiert so mehr staatliche Transparenz. Der Aufgabenbereich des Landesbeauftragten für den Datenschutz und die Informationsfreiheit erhält durch das neue Transparenzgesetz, aber auch durch das Thema Datenschutz, noch stärkere Bedeutung. Dem muss die Ausstattung Rechnung tragen.“
 <h3>SPD</h3>
 Im<a href="http://www.spd-rlp.de/wp-content/uploads/2016/02/SPD-Regierungsprogramm.pdf"> Kapitel 45</a> „Offene und Transparente Verwaltung“ steht:
-„Eine starke und lebendige Demokratie lebt von Teilhabe, Partizipation und Information. Deshalb hat Malu Dreyer in ihrer Regierungserklärung ein Transparenzgesetz angekündigt und in den Landtag eingebracht. Es ist das erste Gesetz, das in einem breiten Beteiligungsprozess entstanden ist. Die Enquete-Kommission „Aktive Bürgerbeteiligung für eine starke Demokratie“, aber auch Bürgerinnen und Bürger, Mitarbeiterinnen und Mitarbeiter der Verwaltung haben sich daran beteiligt. Eine offene und transparente Verwaltung ist keine gläserne. Sie legt aber den interessierten Bürgerinnen und Bürgern offen, wie sie regiert, welche Entscheidungen sie warum getroffen hat. Die Bürgerinnen und Bürger müssen nicht mehr wie bisher einen Antrag auf Information stellen. Künftig werden online auf einer Transparenzplattform im Internet alle Daten einsehbar sein. Wir erweitern damit die Open-Data-Plattform – was mit den englischen Begriffen „Good Governance“ und „Compliance“ umschrieben wird und nichts anderes als gutes Regieren meint. Damit will die SPD das Vertrauen in die Politik stärken.“
+„Eine starke und lebendige Demokratie lebt von Teilhabe, Partizipation und Information. Deshalb hat Malu Dreyer in ihrer Regierungserklärung ein Transparenzgesetz angekündigt und in den Landtag eingebracht. Es ist das erste Gesetz, das in einem breiten Beteiligungsprozess entstanden ist. Die Enquete-Kommission „Aktive Bürgerbeteiligung für eine starke Demokratie“, aber auch Bürgerinnen und Bürger, Mitarbeiterinnen und Mitarbeiter der Verwaltung haben sich daran beteiligt. Eine offene und transparente Verwaltung ist keine gläserne. Sie legt aber den interessierten Bürgerinnen und Bürgern offen, wie sie regiert, welche Entscheidungen sie warum getroffen hat. Die Bürgerinnen und Bürger müssen nicht mehr wie bisher einen Antrag auf Information stellen. Künftig werden online auf einer Transparenzplattform im Internet alle Daten einsehbar sein.
+
+Wir erweitern damit die Open-Data-Plattform – was mit den englischen Begriffen „Good Governance“ und „Compliance“ umschrieben wird und nichts anderes als gutes Regieren meint. Damit will die SPD das Vertrauen in die Politik stärken.“
 Weiter heißt es noch kurz in Kapitel 50 „Rheinland-Pfalz: Die Mitmach-Demokratie“:
 „Mehr Beteiligung und Transparenz auf allen Ebenen und damit mehr Mitwirkungschancen: Das ist unser Ansatz. Wir haben die Empfehlungen der Enquete-Kommission Bürgerbeteiligung umgesetzt und das Transparenzgesetz verabschiedet.“
 
