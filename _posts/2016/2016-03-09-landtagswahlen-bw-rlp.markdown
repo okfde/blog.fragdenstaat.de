@@ -89,4 +89,38 @@ Weiter heißt es noch kurz in Kapitel 50 „Rheinland-Pfalz: Die Mitmach-Demokra
 <h3>Fazit für Rheinland-Pfalz
 </h3>Eine Positionierung zum Transparenzgesetz findet sich deutlich bei den Grünen und der SPD wieder. Hierbei scheint der Text der SPD eher eine Rechtfertigung zu sein als wirklichen Reformbedarf anzumelden. Dies klingt zwar bei den Grünen ähnlich, hier wird aber deutlich, dass eine umfassende Bürgerbeteiligung an der Weiterentwicklung des Gesetzes, und das Bereitstellen entsprechende Ressourcen gewünscht ist. Die Linken sehen Verbesserungsbedarf in zwei Punkten.
 
+<h3>Sachsen-Anhalt</h3>
+<h3>AfD</h3>
+In dem Wahlprogramm findet sich zum Thema Informationsfreiheit nicht direkt, sondern unter dem Handlungsschwerpunkt Transparenz.1 So schreibt die AfD: 
+„Der Handlungsschwerpunkt Transparenz umfasst die Beurteilung der Leistungsfähigkeit der Verwaltung, die Umsetzung des Bürgerwillens aber auch die Stimulierung des Binnenmarktes. Ein transparentes Regierungs- und Verwaltungshandeln hilft, Misstrauen abzubauen und Vertrauen in Politik und Verwaltung zu stärken. 
+
+Die AfD fordert eine Veröffentlichung von Daten und Informationen aus Politik und Verwaltung zur freien Nutzung unter der Wahrung von Persönlichkeitsrechten. Die Daten sollen auf Webseiten oder über internetbasierte Datenschnittstellen nach Berliner oder Hamburger Vorbild verfügbar gemacht werden, wobei interoperablen, offenen Lizenzmodellen der Vorzug zu geben ist. Nichtveröffentlichung von Daten oder Informationen soll auf Datensatzebene begründet werden müssen.“
+<h3>CDU</h3>
+In dem Wahlprogramm findet sich hierzu kein direkter Hinweis.
+
+<h3>DIE LINKE
+</h3>In dem Programm2 der Partei Die Linke finden sich deutliche Verbesserungsvorschläge:
+„Zum Teil erschweren hohe Gebühren den gesetzlich garantierten Zugang zu Behördeninformationen. Wir fordern als einen ersten Schritt zu einem modernen Transparenzgesetz in Sachsen-Anhalt den kostenlosen Zugang zu Informationen der Landesbehörden. Dabei gilt für uns: »Öffentliche Daten nützen, private Daten schützen«. Wir wollen im Transparenzgesetz ein Open-Data-Portal festschreiben und damit einen Kulturwandel in den öffentlichen Verwaltungen einleiten. Der Landesbeauftragte für Datenschutz und Informationsfreiheit soll dafür gestärkt werden. DIE LINKE. Sachsen-Anhalt setzt sich für eine stärkere Nutzung von freier und quelloffener Software in den Einrichtungen der Landesverwaltung ein.“
+
+<h3>FDP</h3>
+In dem Wahlprogramm findet sich hierzu kein direkter Hinweis.
+
+<h3>Bündnis 90/DIE GRÜNEN
+</h3>Ein ganzes Kapitel widmet Bündnis 90/Die Grünen der Thematik unter dem Titel „Datenschutz und Informationsfreiheit stärken“.3
+„Über persönliche Daten muss jede und jeder selbst bestimmen! Wir setzen uns für den Grundsatz des Schutzes und der Sparsamkeit im Umgang mit Daten ein. Vorratsdatenspeicherung lehnen wir als krassen Verstoß gegen die Rechtsstaatlichkeit ab. Die informationelle Selbstbestimmung muss aber auch gegen die ungerechtfertigte staatliche Überwachung und ausufernde Verwertung durch kommerzielle Interessen verteidigt werden. Eine erste Möglichkeit dazu ist, den Landesdatenschutzbeauftragten weiter zu stärken und entsprechend personell auszustatten. Außerdem muss seine Aufgabe als Beauftragter für die Informationsfreiheit gestärkt und personell untersetzt werden. Wir wollen das Informationszugangsgesetz des Landes deutlich verbessern und die Zugangshürden senken. 
+
+Open Governement [sic!] zu erreichen bedeutet, grundsätzlich die Kostenfreiheit einzuführen sowie den Begründungsvorbehalt auf die Behörden zu verlagern.
+Es muss möglich sein, privat, geschäftlich und mit Behörden zu kommunizieren, ohne dass Dritte mithören können. Darum setzen wir uns für sichere Verschlüsselungsmethoden ein und lehnen deswegen jede Bestrebung, den privaten und wirtschaftlichen Gebrauch von Verschlüsselungen einzuschränken, ab. 
+Auf Missstände öffentlich hinzuweisen, ist wichtig für die Demokratie. Deswegen wollen wir Whistleblower durch eine landesgesetzliche Regelung besser schützen.“
+
+<h3>SPD</h3>
+In dem Kapitel „Mehr Demokratie wagen, Kommunale Selbstverwaltung stärken“ findet sich bei der SPD folgendes wieder:4
+„Informationsfreiheit ist eine Voraussetzung für direkte Demokratie. Es gilt, zu wissen, worüber man entscheidet. Wir wollen Informationen der Verwaltung unmittelbar der Allgemeinheit zugänglich machen. Einen ersten Schritt in diese Richtung hat das Ministerium der Finanzen mit Einrichtung des Informationsführungssystems erreicht, das finanzrelevante Informationen in einem Abgeordneten- und Bürgerinformationssystem zur Verfügung stellt.“
+Als Forderung wird hier formuliert: „Die SPD in Sachsen-Anhalt wird nach dem Vorbild des Hamburger Transparenzgesetzes das Informationszugangsgesetz weiterentwickeln.“
+
+In dem Kapitel „Verbraucherschutz und Verbrauchersicherheit“ ist eine weitere Forderung niedergeschrieben: „Wir setzen auf eine verbesserte Information der Verbraucherinnen und Verbraucher. Mit einem Transparenzgesetz wollen wir Informationen der Verwaltung – im Sinne von Open Data – unmittelbar der Allgemeinheit „von Amts wegen“ zugänglich machen. Alle Bürgerinnen und Bürger müssen jederzeit die Kontrolle über ihre bei Behörden und Ämtern gespeicherten Informationen haben können.“
+
+<h3>Fazit für Sachsen-Anhalt
+</h3>Deutliche Forderungen lassen sich bei der Partei Die Linke, Bündnis 90/Die Grünen und der SPD wiederfinden. Nur die Die Linke und SPD fordern auch ein Transparenzgesetz. Die derzeit hohen Kosten werden nur deutlich von Die Linke und Bündnis 90/Die Grünen kritisiert. Die regierende CDU (zusammen mit der SPD), schreibt zum Thema LIFG nichts.
+
 Autor: <em>Christopher Bohlens</em>
