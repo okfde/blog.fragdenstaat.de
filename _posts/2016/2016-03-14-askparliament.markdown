@@ -36,7 +36,7 @@ All reports of the RS will now be actively published on <a href="https://bundest
 
 But not only that: The Parliament also changed its publication policy regarding all new reports. In the future, they will be released by the Parliament after a protective period of four weeks.
 
-Unfortunately the platform of parliament does not provide machine readable formats but PDFs and only allows for search by key words in the title. Again FragDenStaat stepped in to show authorities how the future of information should look like. With the help of kleineAnfragen.de (our sister site collecting small inquiries by MPs) we launched sehrgutachten.de, a database providing all of the released reports in different machine-readable formats and categories, fully searchable.
+Unfortunately the platform of parliament does not provide machine readable formats but PDFs and only allows for search by key words in the title. Again FragDenStaat stepped in to show authorities how the future of information should look like. With the help of kleineAnfragen.de (our sister site collecting small inquiries by MPs) we launched <a href="https://sehrgutachten.de/">sehrgutachten.de</a>, a database providing all of the released reports in different machine-readable formats and categories, fully searchable.
 
 The campaign FragDenBundestag, with very few ressources, managed to open up a trove of valuable information to the public, which, in the past was reserved to only a privileged few.
 
