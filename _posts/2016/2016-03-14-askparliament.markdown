@@ -32,7 +32,7 @@ To make requesting the RS reports as convenient as possible, we created a search
 
 Within three weeks more than two thousand citizens had requested more than half of the reports. The office at the receiving end could not further cope with the flood of requests. Succombing to the public pressure facilitated through FragDenBundestag, Parliament decided to open their file cabinets:
 
-All reports of the RS will now be actively published on www.bundestag.de/ausarbeitungen .
+All reports of the RS will now be actively published on <a href="https://bundestag.de/ausarbeitungen/">www.bundestag.de/ausarbeitungen</a>.
 
 But not only that: The Parliament also changed its publication policy regarding all new reports. In the future, they will be released by the Parliament after a protective period of four weeks.
 
