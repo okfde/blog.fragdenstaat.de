@@ -25,7 +25,7 @@ Thus in mid-January, we decided to start a campaign calling upon civil society t
 
 Our platform FragDenStaat is an independent online service that allows for citizens to easily request official documents online under the FOI Act, and, if succesful, publishes them in its public database. This way FragDenStaat users have freed over 12.500 documents in the last years.
 
-<figure><img src="20-1.jpg" width="600"><figcaption>FragDenBundestag in action</figcaption></figure>
+<figure><img src="../20-1.jpg" width="600"><figcaption>FragDenBundestag in action</figcaption></figure>
 
 To make requesting the RS reports as convenient as possible, we created a searchable database with the report’s titles obtained by abgeordnetenwatch, and integrated it to our existing system of FOI requests. The RS report database was searchable by keywords of choice, auch as “drugs” or “refugees” and once an interesting report had been selected, the requester only had to attach his postal adress and commit. Each survey could only be requested once to ensure that no office work had to be done twice. A status bar at the top showed the percentage of reports already freed, and those currently requested.
 <h3>Results</h3>
