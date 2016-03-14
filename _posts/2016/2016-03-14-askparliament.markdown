@@ -7,7 +7,7 @@ tags: [FragDenBundestag]
 ---
 
 On February 18th 2016 German Parliament (“Bundestag”) announced the release of thousands of previously non-public reports conducted by the Research Section of Parliament in reaction to our campaign <a href="http://fragdenbundestag.de/">FragDenBundestag!</a> (“Ask Parliament!”).
-<h3>Background</h3>
+<h4>Background</h4>
 
 The body known as Research Section (“Wissenschaftlicher Dienst”) is a panel of independent experts consisting of roughly 100 scientists and lawyers. Members of Parliament can turn to the Research Section for advice aiding them in making informed decisions, on topics they are not, or not as, familiar with. These can range from  to the effectiveness of drug policies to TTIP or the likelyhood of an UFO landing on German territory (spoiler alert: it’s rather low).
 
@@ -25,7 +25,7 @@ Thus in mid-January, we decided to start a campaign calling upon civil society t
 
 Our platform FragDenStaat is an independent online service that allows for citizens to easily request official documents online under the FOI Act, and, if succesful, publishes them in its public database. This way FragDenStaat users have freed over 12.500 documents in the last years.
 
-<figure><img src="../20-1.jpg" width="600"><figcaption>FragDenBundestag in action</figcaption></figure>
+<figure><img src="https://github.com/okfde/blog.fragdenstaat.de/blob/gh-pages/_posts/2016/20-1.jpg" width="600"><figcaption>FragDenBundestag in action</figcaption></figure>
 
 To make requesting the RS reports as convenient as possible, we created a searchable database with the report’s titles obtained by abgeordnetenwatch, and integrated it to our existing system of FOI requests. The RS report database was searchable by keywords of choice, auch as “drugs” or “refugees” and once an interesting report had been selected, the requester only had to attach his postal adress and commit. Each survey could only be requested once to ensure that no office work had to be done twice. A status bar at the top showed the percentage of reports already freed, and those currently requested.
 <h3>Results</h3>
