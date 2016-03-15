@@ -40,4 +40,4 @@ Unfortunately the platform of parliament does not provide machine readable forma
 
 The campaign FragDenBundestag, with very few ressources, managed to open up a trove of valuable information to the public, which, in the past was reserved to only a privileged few.
 
-The code of the campaign tool is available <a href="https://fragdenstaat.de/fds-admin/froide_campaign/">here on Github</a>.
+The code of the campaign tool is available <a href="https://github.com/okfde/froide-campaign">here on Github</a>.
