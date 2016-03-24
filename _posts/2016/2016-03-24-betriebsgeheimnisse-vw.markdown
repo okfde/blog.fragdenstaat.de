@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unternehmen haben mehr Rechte als Menschen: Details zum Abgasbetrug sollen geheim bleiben"
-date: '2016-02-08T12:16:23+02:00'
+date: '2016-03-24T16:23:23+02:00'
 tags: [Volkswagen, Betriebs- und Geschäftsgeheimnisse]
 
 ---
