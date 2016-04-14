@@ -9,7 +9,7 @@ Eine falsche Auskunft der Hamburger Polizei zur Existenz einer geheimen Sportgew
 
 Im Januar war durch eine <a href="https://kleineanfragen.de/hamburg/21/2944-personendatenbank-gruppen-und-szenegewalt-der-polizei-hamburg-ii">kleine Anfrage</a> in der Hamburgischen Bürgerschaft bekanntgeworden, dass die Hamburger Polizei seit neun Jahren in einer Datei zu "Gruppen- und Szenegewalt" Informationen über angeblich gewaltbereite Fußballfans sammelt. Auf eine Anfrage über FragDenStaat.de <a href="https://netzpolitik.org/2016/hamburger-polizei-fuehrt-geheime-datei-zur-sportgewalt-beluegt-buerger/">antwortete die Polizei jedoch ein Jahr zuvor</a>, dass eine solche Datei nicht existiere. 
 
-<a href="https://netzpolitik.org/wp-upload/fussball-polizei.jpg"><img src="https://netzpolitik.org/wp-upload/fussball-polizei.jpg" alt="CC BY-NC-ND 2.0 via airsoenxen (flickr)" width="1000" height="667" class="size-full wp-image-118031" /></a>
+<a href="https://netzpolitik.org/wp-upload/fussball-polizei.jpg"><img src="https://netzpolitik.org/wp-upload/fussball-polizei.jpg" alt="CC BY-NC-ND 2.0 via airsoenxen (flickr)"></a>
 
 <h3>Polizei spricht von "Missverständnis"</h3>
 
@@ -37,6 +37,6 @@ In der Datei sind mehr als 2.000 Menschen geführt. Die meisten von ihnen sind d
 
 Für die Bearbeitung der Anfrage nach dem Transparenzgesetz, die drei Monate dauerte, berechnet uns die Hamburger Polizei übrigens Gebühren in Höhe von 120 Euro. Zur Deckung der Kosten <a href="https://fragdenstaat.de/hilfe/spenden/">freuen wir uns über Spenden</a>.
 
-<a href="https://fragdenstaat.de/files/foi/49131/E-Mail3.pdf"><img src="https://netzpolitik.org/wp-upload/polizei-hamburg-szenegewalt-1024x505.jpg" alt="Interne E-Mail der Polizei Hamburg" width="1024" height="505" class="size-large wp-image-117995" /></a> Interne E-Mail der Polizei Hamburg
+<a href="https://fragdenstaat.de/files/foi/49131/E-Mail3.pdf"><img src="https://netzpolitik.org/wp-upload/polizei-hamburg-szenegewalt-1024x505.jpg" alt="Interne E-Mail der Polizei Hamburg"></a> Interne E-Mail der Polizei Hamburg
 
 <em>Polizei-Bild: <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a> via <a href="https://www.flickr.com/photos/airsoenxen/6902882264/">airsoenxen (flickr)</a></em>
