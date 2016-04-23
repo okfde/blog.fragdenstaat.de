@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jahresbericht: FragDenStaat 2015"
-date: '2016-23-14T00:17:00+02:00'
+date: '2016-23-14T00:16:58+02:00'
 tags: [Jahresbericht 2015]
 
 ---
