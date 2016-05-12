@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Django, UI/UX, Öffentlichkeitsarbeit: Hier brauchen wir Unterstützung"
-date: '2016-03-24T16:23:23+02:00'
+date: '2016-04-24T16:23:23+02:00'
 tags: [FragDenStaat]
 
 ---
