@@ -15,8 +15,6 @@ Zur Begründung führt das Amt aus, dass die Unschuldsvermutung staatlichen Stel
 
 Der Ausschlussgrund zu "nachteiligen Auswirkungen auf internationale Beziehungen" ist ein viel genutzter Gummiparagraph des IFG - danach können Behörden Veröffentlichungen recht willkürlich ablehnen, wenn diese ihrer Ansicht nach negative Folgen für die Bundesrepublik nach sich ziehen könnten. Laut Bundesverwaltungsgericht ist diese Entscheidung dann <a href="http://www.bverwg.de/entscheidungen/entscheidung.php?ent=291009U7C22.08.0">"nur eingeschränkt gerichtlich nachprüfbar"</a>.
 
-<h3>Nachteilige Auswirkungen auf internationale Beziehungen, Ermittlungen, faires Verfahren</h3>
-
 <blockquote>Das Gutachten ist offenbar als Verschlusssache VS-Vertraulich gekennzeichnet, die dritthöchste Geheimhaltungsstufe.</blockquote>
 
 Eine Einstufung nach der Verschlusssachenanweisung sollte im Sinne der Informationsfreiheit eigentlich kein legitimer Ausschlussgrund sein. Zum einen muss bei einer Anfrage ohnehin überprüft werden, ob die Einstufung eines Dokuments weiterhin Bestand hat. Zum anderen sollten die anderen Ausschlussgründe nach dem IFG - also etwa negative Auswirkungen auf die innere Sicherheit - ausreichend sein, um eine Herausgabe zu klären. Spricht kein inhaltlicher Grund gegen eine Veröffentlichung, sollte auch die Einstufung eines Dokuments als vertraulich kein Ausschlussgrund sein.
