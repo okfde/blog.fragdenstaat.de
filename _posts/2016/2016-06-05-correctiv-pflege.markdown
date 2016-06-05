@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Neue Recherche:"
+title: "Correctiv-Recherche für mehr Transparenz in Pflege"
 date: '2016-06-05T00:10:23+02:00'
 tags: [CORRECTIV]
 
