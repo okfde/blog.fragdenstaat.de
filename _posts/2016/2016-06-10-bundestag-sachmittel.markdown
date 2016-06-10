@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sachmittel für Abgeordnete: Bundestag gab 270.000 Euro für Mobiltelefone aus"
-date: '2016-01-05T12:16:23+02:00'
+date: '2016-06-10T12:16:23+02:00'
 tags: [2016]
 
 ---
