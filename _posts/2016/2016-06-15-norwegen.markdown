@@ -1,0 +1,16 @@
+---
+layout: post
+title: "So macht man es richtig (1): Norwegen"
+date: '2016-02-08T12:16:23+02:00'
+tags: [Norwegen]
+
+---
+<em>Die neue Serie "So macht man es richtig" stellt Informationsfreiheit in anderen Ländern vor.</em>
+
+In der Diskussion um Informationsfreiheits- und Transparenzgesetze geht häufig unter, dass außerhalb von Deutschland nicht darüber diskutiert wird, wie viel eine Auskunft kosten darf oder ob auf Anfragen die Antwortfrist von einem Monat überschritten werden darf; dort ist es selbstverständlich, dass Auskünfte innerhalb von wenigen Tagen kostenfrei erteilt werden.
+
+Das zeigt etwa ein Blick aufs [RTI-Rating](http://www.rti-rating.org/country-data). Von 107 Ländern mit einem Informationsfreiheitsgesetz erreicht die Gesetzgebung in Deutschland nur Platz 99.
+
+Ein Beispiel dafür, wie man es besser macht, ist Norwegen: In dem Land mit 4,5 Millionen Einwohnern werden jährlich 200.000 Anfragen an Behörden gestellt (in Deutschland sind es 10.000). Der Prozess verläuft in der Regel online. Und zwar so:
+
+In einem [Online-Aktenregister](https://oep.no/) können User nach bestimmten Akten oder Stichwörtern suchen, die bei allen Behörden des Landes vorliegen. Die Suchergebnisse können anschließend wie beim Online-Shopping bestellt werden. Dazu ist lediglich eine E-Mail-Adresse notwendig. Der Nachweis einer norwegischen Staatsbürgerschaft oder eines existierenden Namens ist keine Voraussetzung für den Zugang zu Informationen. Die Behörden senden die Akten anschließend kostenfrei - in der Regel von fünf Werktagen - per E-Mail zu. Wer die Inhalte verstehen will, sollte allerdings idealerweise Norwegisch sprechen.
