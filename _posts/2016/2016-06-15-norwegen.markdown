@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "So macht man es richtig (1): Norwegen"
-date: '2016-02-08T12:16:23+02:00'
+date: '2016-06-15T12:16:23+02:00'
 tags: [Norwegen]
 
 ---
