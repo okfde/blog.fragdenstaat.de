@@ -6,6 +6,8 @@ tags: [vosshoff]
 
 ---
 
+<em>Die Bundesbeauftragte für die Informationsfreiheit Andrea Voßhoff wird für ihre zurückhaltende Arbeit stark kritisiert. Aber woran hat sie überhaupt in den letzten beiden Jahren gearbeitet? Ein Blick in ihren neuen Tätigkeitsbericht zur Informationsfreiheit.</em>
+
 Ein solches Urteil ist mutig: Die Auskünfte deutscher Behörden nach dem Informationsfreiheitsgesetz (IFG) lobte Andrea Voßhoff am Dienstag bei der Vorstellung ihres neuen Tätigkeitsberichts für die Informationsfreiheit als <a href="https://netzpolitik.org/2016/andrea-vosshoff-informationsfreiheitsgesetz-wird-angenommen-und-ist-angekommen/">"ordentlich bis gut"</a>.
 
 Wer den neuen <a href="http://www.bfdi.bund.de/SharedDocs/Publikationen/Taetigkeitsberichte/TB_IFG/5TB06_16.html?nn=5217212">Tätigkeitsbericht von Voßhoffs Behörde zur Informationsfreiheit</a> liest, kommt vermutlich zu einem <a href="https://netzpolitik.org/2016/was-macht-eigentlich-andrea-vosshoff/">anderen Schluss</a>. Der 170 Seiten starke Bericht zeigt nämlich auf, dass teils überzogene Gebühren, unzulässig verweigerte Auskünfte und zu lange Bearbeitungszeiten nicht ungewöhnlich sind.
