@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2016 in Informationsfreiheit: Das ist neu in diesem Jahr"
-date: '2016-01-05T12:16:23+02:00'
+date: '2016-06-24T12:16:23+02:00'
 tags: [2016]
 
 ---
