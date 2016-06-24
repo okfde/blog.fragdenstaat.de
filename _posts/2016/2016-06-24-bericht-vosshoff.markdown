@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "2016 in Informationsfreiheit: Das ist neu in diesem Jahr"
+title: "Bericht zur Informationsfreiheit: Kontrollbesuche bei Behörden offenbaren Nachlässigkeiten"
 date: '2016-06-24T12:16:23+02:00'
-tags: [2016]
+tags: [vosshoff]
 
 ---
 
