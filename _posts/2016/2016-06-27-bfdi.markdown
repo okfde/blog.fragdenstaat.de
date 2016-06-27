@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Schwarz-grüne Koalition in Hessen: Entscheidung über Informationsfreiheit im Herbst"
+date: '2016-06-27T12:16:23+02:00'
+tags: [hessen]
+
+---
+
+<em>Die Bundesbeauftragte für den Datenschutz ist seit vielen Jahren gleichzeitig Beauftragte für Informationsfreiheit. Inzwischen zeigt sich: Die Doppelfunktion könnte ein Grund dafür sein, dass es in dem Bereich nicht vorangeht.</em>
+
+<p><span id="more-27601"></span></p>
+<p>Als Andrea Voßhoff, die Bundesbeauftragte für den Datenschutz, am vergangenen Dienstag ihren <a href="http://www.bfdi.bund.de/SharedDocs/Publikationen/Taetigkeitsberichte/TB_IFG/5TB06_16.html?nn=5217154">Tätigkeitsbericht zur Informationsfreiheit</a> vorlegte, merkte man ihr den fehlenden Enthusiasmus für das Thema an: Sie ließ verlauten, in zehn Jahren des Informationsfreiheitsgesetzes (IFG) habe sich das Thema „bewährt“ und sei bei den Behörden „angekommen“.</p>
+<p>Die Einschätzung Voßhoffs teilt außer dem Innenministerium allerdings niemand, der sich mit Informationsfreiheit in Deutschland beschäftigt. Weniger als 10.000 IFG-Anfragen an Behörden gibt es hierzulande im Jahr. Dem stehen alleine 200.000 vergleichbare Anträge zum Beispiel in Norwegen gegenüber. Journalisten und Nichtregierungsorganisationen stöhnen über hohe Gebühren, verschleppte Anträge und irrsinnige Ablehnungsgründe.</p>
+<p><iframe src="https://www.youtube.com/embed/hSaJI9_ZfGA" allowfullscreen="allowfullscreen" frameborder="0" height="276" width="490"></iframe></p>
+<p>Voßhoff hat allerdings kaum ein Interesse, das zu ändern, wie sie auch der Bedeutungsverlust ihrer Behörde mit dem inzwischen festgeschriebenen Umzug nach Bonn nicht zu stören scheint. Ihr Vorgänger Peter Schaar hatte Datenschutz und Informationsfreiheit als „zwei Seiten einer Medaille“ angepriesen und seine Doppelfunktion für beide Themen offensiv verteidigt.</p>
+<h3>Ein strukturelles Problem</h3>
+<p>Voßhoff greift stattdessen lieber nach dem Pokal des Datenschutzes. Im Jahr 2015 gab ihr Haus 28 Pressemitteilungen zum Thema Datenschutz heraus. Zur Informationsfreiheit gab es keine einzige Zeile, nicht einmal zur <a href="https://irights.info/2016/02/19/bundestag-arbeiten-der-wissenschaftlichen-dienste-werden-verfuegbar/26955">Öffnung des Wissenschaftlichen Dienstes im Bundestag</a>.</p>
+<p>Die Datenschutzbeauftragten in Hamburg, Rheinland-Pfalz und Thüringen zeigen, dass auch mit geringer Ausstattung das Thema Transparenz vorangetrieben werden kann. Der thüringische Datenschutzbeauftragte Lutz Hasse legte jüngst einen <a href="https://netzpolitik.org/2016/oeffnung-der-aktenschraenke-thueringen-will-bis-ende-maerz-transparenzgesetz-erarbeiten/">eigenen Entwurf für ein Transparenzgesetz</a> vor. Sie bleiben allerdings die Ausnahme.</p>
+<p>Das Problem ist letztlich nicht nur an einzelnen Personen festzumachen, es ist strukturell veranlagt: Zwar lassen sich Datenschutz und Informationsfreiheit gut miteinander verbinden, wie es das Motto „öffentliche Daten nützen, private Daten schützen“ vorgibt. Der Umgang mit den Themen ist jedoch grundsätzlich unterschiedlich.</p>
+<p>Es ist deutlich einfacher, gegen einen gläsernen Bürger zu kämpfen als für einen gläsernen Staat. Während Datenschutzbeauftragte sich leicht durch Kritik an Google und Facebook profilieren und Verbote fordern können, müssen sie als Befürworter von Informationsfreiheit zwischen verschiedenen Grundrechten abwägen, die direkt in ihren Aufgabenbereich fallen.</p>
+<p>Außerdem machen sie sich schnell Feinde. Die Verwaltungen, aus der viele Datenschutzbeauftragte wie etwa in Berlin selbst stammen, sind weiterhin keine Fans der Herausgabe „ihrer“ Informationen. Stattdessen spielen sie Datenschutz und Informationsfreiheit gegeneinander aus. Manche Beauftragte haben schon verlauten lassen, dass sie im Zweifel den Datenschutz wichtiger finden als das öffentliche Interesse daran, Rechenschaft für behördliche Entscheidungen einzufordern.</p>
+<h3>Vier Planstellen, kaum Sanktionsmacht</h3>
+<p>Der internationale Vergleich zeigt, wie effektiv für Informationsfreiheit gekämpft werden kann: In vielen anderen Ländern gibt es eigenständige Beauftragte nur für Informationsfreiheit, die mit weitergehenden Befugnissen ausgestattet sind und sich auf ihr Kernthema konzentrieren können. Der Beauftragte für Informationsfreiheit in Mexiko kann auf rund 200 MitarbeiterInnen zurückgreifen, sein Pendant in Ungarn auf fast 50. Sie verhängen bei falschen Auskünften Strafgelder und haben Weisungsrecht gegenüber anderen Behörden.</p>
+<p>Die Bundesbeauftragte hingegen hat für Informationsfreiheit vier Planstellen geschaffen – gegenüber 96 Stellen im Datenschutz. Wenn sie ein krasses Fehlverhalten einer Behörde aufdeckt, kann sie dies im äußersten Fall förmlich beanstanden.</p>
+<p>Dabei ist das Thema der Informationsfreiheit viel zu wichtig, um es im Schatten des Datenschutzes verkümmern zu lassen. Gerade in Zeiten des schwindendes Vertrauens in die Demokratie sollte die Öffnung der Verwaltung vorangetrieben werden. Die Schaffung eigenständiger Beauftragter für die Informationsfreiheit wäre ein erster Schritt dahin.</p>
