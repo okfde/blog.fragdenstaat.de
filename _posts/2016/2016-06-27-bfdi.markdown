@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Schwarz-grüne Koalition in Hessen: Entscheidung über Informationsfreiheit im Herbst"
-date: '2016-06-27T12:16:23+02:00'
+title: "Bundesbeauftragte für Datenschutz und Gedöns"
+date: '2016-06-27T15:16:23+02:00'
 tags: [hessen]
 
 ---
