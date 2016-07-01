@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Rezension: Gesetzeskommentar zur Informationsfreiheit hält Ausnahme für Rechnungshof für verfassungswidrig"
-date: '2016-06-27T12:16:23+02:00'
-tags: [hessen]
+date: '2016-07-01T14:16:23+02:00'
+tags: [Schoch, IFG]
 
 ---
 
