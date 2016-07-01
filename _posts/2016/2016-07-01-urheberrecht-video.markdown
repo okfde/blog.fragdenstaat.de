@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Urheberrecht: Bundesprüfstelle muss Porno-Rarität doch nicht herausgeben"
-date: '2016-06-27T12:16:23+02:00'
+date: '2016-07-01T17:41:23+02:00'
 tags: [urheberrecht]
 
 ---
