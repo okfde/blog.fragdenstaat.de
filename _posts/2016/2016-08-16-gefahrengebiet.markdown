@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Gefahrengebiet um Rigaer Straße: Klage gegen Berliner Polizei"
-date: '2016-07-20T14:10:23+02:00'
-tags: [gutachten, wissenschaftlicher dienst, schleswig-holstein]
+date: '2016-08-16T10:10:23+02:00'
+tags: [berlin, polizei, rigaer]
 
 ---
 
