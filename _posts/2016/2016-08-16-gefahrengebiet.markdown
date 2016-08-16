@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gefahrengebiet um Rigaer Straße: Klage gegen Berliner Polizei"
+title: "Gefahrengebiet um Rigaer Straße: Klage gegen Berliner Polizei (mit Podcast)"
 date: '2016-08-16T10:10:23+02:00'
 tags: [berlin, polizei, rigaer]
 
@@ -21,3 +21,5 @@ Klagen nach dem Informationsfreiheitsgesetz können in der ersten Instanz bis zu
 <strong><a href="http://www.fiff.de/spende-klage-rigaer">Weitere Infos zum Fall</a><br>
 <a href="https://fragdenstaat.de/anfrage/details-zum-kriminalitatsbelasteten-ortes-um-die-rigaer-strae/#nachricht-44193">Zur Anfrage</a><br>
 <a href="https://netzpolitik.org/2016/interview-die-informationsfreiheit-an-kriminalitaetsbelasteten-orten/">Zum Interview mit Reiner Rehak auf netzpolitik.org</a></strong>
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/278518259&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
