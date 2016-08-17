@@ -6,7 +6,7 @@ tags: [berlin, polizei, rigaer]
 
 ---
 
-Wie kann die Verfassungsmäßigkeit von Polizeimaßnahmen kontrolliert werden, wenn nicht bekannt ist, wie die Polzei arbeitet? Mit dieser Frage beschäftigt sich eine Klage auf Basis des Informationsfreiheitsgesetzes, die das "Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung" (FiFf) in Berlin eingereicht hat.
+Wie kann die Verfassungsmäßigkeit von Polizeimaßnahmen kontrolliert werden, wenn nicht bekannt ist, wie die Polzei arbeitet? Mit dieser Frage beschäftigt sich eine Klage auf Basis des Informationsfreiheitsgesetzes, die das "Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung" (FIfF) in Berlin eingereicht hat.
 
 Ausgangpunkt der Klage ist eine <a href="https://fragdenstaat.de/anfrage/details-zum-kriminalitatsbelasteten-ortes-um-die-rigaer-strae/#nachricht-44193">Anfrage von Rainer Rehak</a>, der u.a. von der Berliner Polizei wissen wollte, welche Befugnisse Polizeimaßnahmen im Gefahrengebiet um die Rigaer Straße haben und welche Ziele die Maßnahmen haben.
 
@@ -16,7 +16,7 @@ Dazu sagt Rainer Rehak: "Mit gutem Grund gibt es die verfassungsrechtliche Maßg
 
 Tatsächlich erscheint die Begründung der Polizei für die Ablehnung fadenscheinig: Besondere Befugnisse, die sich die Polizei im Gefahrengebiet selbst gibt, müssen durch die Öffentlichkeit überprüfbar sein. Werden solche Informationen nicht herausgegeben, erscheint das Instrument der Informationsfreiheit als nutzlos.
 
-Klagen nach dem Informationsfreiheitsgesetz können in der ersten Instanz bis zu 2.500 Euro kosten. Für die Finanzierung bittet das FiFf um Unterstützung. <a href="http://www.fiff.de/spende-klage-rigaer">Spendet hier!</a>
+Klagen nach dem Informationsfreiheitsgesetz können in der ersten Instanz bis zu 2.500 Euro kosten. Für die Finanzierung bittet das FIfF um Unterstützung. <a href="http://www.fiff.de/spende-klage-rigaer">Spendet hier!</a>
 
 <strong><a href="http://www.fiff.de/spende-klage-rigaer">Weitere Infos zum Fall</a><br>
 <a href="https://fragdenstaat.de/anfrage/details-zum-kriminalitatsbelasteten-ortes-um-die-rigaer-strae/#nachricht-44193">Zur Anfrage</a><br>
