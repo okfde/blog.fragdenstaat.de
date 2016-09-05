@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "22 Jahre danach: Wir veröffentlichen interne Gutachten zu Deutschlands Rolle bei Völkermord in Ruanda"
-date: '2016-08-25T09:16:23+02:00'
+date: '2016-09-05T12:16:23+02:00'
 tags: [2016]
 
 ---
