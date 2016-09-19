@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Kaputte Verwaltung: Warum Berlin jetzt ein Transparenzgesetz braucht"
+date: '2016-09-16T12:06:23+02:00'
+tags: [2016]
+
+---
 <a href="https://netzpolitik.org/wp-upload/2016/09/13837300983_b8993aadcf_k.jpg"><img src="https://netzpolitik.org/wp-upload/2016/09/13837300983_b8993aadcf_k-730x487.jpg" alt="Foto: Tim Rieckmann. CC BY-SA 2.0" width="730" height="487" class="size-large wp-image-133040" /></a>
 
 Sollte es in Berlin zu einer rot-rot-grünen Koalition kommen, wird sie ein Transparenzgesetz nach Hamburger Vorbild verabschieden. Das ist zumindest das Ergebnis der Antworten der Berliner Parteien auf <a href="https://netzpolitik.org/2016/koalition-freies-wissen-wahlpruefsteine-berlin-2016/">Wahlprüfsteine der Koalition Freies Wissen</a>. Alle drei Parteien haben sich dafür ausgesprochen, die Verwaltung zur aktiven Veröffentlichung von zentralen Daten zu verpflichten.
