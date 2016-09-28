@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "#000000 - Wir enthüllen IFG-Kunstedition"
-date: '2016-09-26T17:16:23+02:00'
+date: '2016-09-28T12:16:23+02:00'
 tags: [2016]
 
 ---
