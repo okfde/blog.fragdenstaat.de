@@ -22,7 +22,4 @@ Zwar hat sich der Bundestag auf unser Drängen hin inzwischen geöffnet. Landesp
 
 Der Hauptpreis des Otto Brenner Preises geht dieses Jahr verdient an das Team um die Panama Papers, der Newcomer-Preis an <a href="https://laurameschede.atavist.com/shutka_for_tazde">Laura Meschede</a>.
 
-
-<strong><a href="https://www.abgeordnetenwatch.de/blog/2016-10-10/wir-erhalten-den-otto-brenner-preis-fur-fragdenbundestagde">zu unserer Pressemitteilung</a></strong>
-
 <strong><a href="https://www.otto-brenner-preis.de/presse/pressearchiv-otto-brenner-stiftung/pressedetail//1//otto-brenner-stiftung-zeichnet-zum-12-mal-herausragenden-journalismus-aus.html">zur Pressemitteilung der Otto Brenner Stiftung</a></strong>
