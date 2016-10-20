@@ -18,6 +18,8 @@ Mit der <a href="https://fragdenstaat.de/jobcenter/">neuen Kampagne "Frag Das Jo
 
 Mitmachen bei der Kampagne ist einfach: Auf <a href="https://fragdenstaat.de/kampagne/jobcenter/">FragDenStaat.de/jobcenter</a> eines der 408 deutschen Jobcenter auswählen und eine vorgefertigte Mail über die Plattform an die Behörde senden - wie schon bei der ähnlichen <a href="https://netzpolitik.org/2016/fragdenbundestag-erfolgreich-bundestag-oeffnet-seine-aktenschraenke/">Kampagne "FragDenBundestag" im Frühjahr</a>. Das Ziel dabei: Mittelfristig sollen alle Jobcenter ihre Weisungen und Zielvereinbarungen laufend aktuell auf der eigenen Homepage veröffentlichen.
 
+<strong><a href="https://fragdenstaat.de/kampagne/jobcenter/">Jetzt Jobcenter anfragen</a></strong>
+
 <h3>Jobcenter müssen Telefonlisten nicht herausgeben</h3>
 
 In einem anderen Punkt müssen Jobcenter nicht transparenter werden. Nach einem heutigen <a href="http://bverwg.de/presse/pressemitteilungen/pressemitteilung.php?jahr=2016&nr=86">Urteil des Bundesverwaltungsgerichts</a> sind die Behörden nicht unbedingt dazu verpflichtet, die Telefonnummern einzelner Sachbearbeiter auf Antrag herauszugeben.
@@ -36,4 +38,7 @@ Das bedeutet, dass Betroffenen in vielen Jobcentern keine Möglichkeit bleibt, i
 
 Wer weitere Hinweise und Dokumente zu dem Thema hat: Das Recherchebüro Correctiv recherchiert für sein Dossier zur "Ungerechten Arbeitswelt" zu Jobcentern in Deutschland und <a href="https://correctiv.org/recherchen/arbeit/artikel/2016/10/19/ungerechte-arbeitswelt/">freut sich über Einsendungen</a>.
 
+<strong><a href="https://fragdenstaat.de/kampagne/jobcenter/">Jetzt Jobcenter anfragen</a></strong>
+
 Foto: <a href="https://www.flickr.com/photos/cucchiaio/">cucchiaio</a>, <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>
+
