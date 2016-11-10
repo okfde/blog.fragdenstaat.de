@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wissenschaftlich: Unser Paper zu Online-Plattformen und IFG"
-date: '2016-01-05T12:16:23+02:00'
+date: '2016-11-10T12:16:23+02:00'
 tags: [paper]
 
 ---
