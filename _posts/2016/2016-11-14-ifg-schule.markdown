@@ -6,7 +6,6 @@ tags: [schule]
 author: Leonard Wolf
 
 ---
-
 Schimmelnde Unterrichtsräume, überforderte Lehrerinnen und Lehrer und überfüllte Klassen - das ist der Alltag für viele Schülerinnen und Schüler in ganz Deutschland.
 Wieso ist das so? Das fragen sich sowohl Eltern als auch SchülerInnen und LehrerInnen. Die Antwort heißt: Informationsfreiheitsgesetz!
 
@@ -14,11 +13,13 @@ Mit dem Informationsfreiheitsgesetz dürfen alle Personen ohne Angabe von Gründ
 
 <b>Und was so?</b>
 Zum Beispiel:
-Kompletter Schulinspektionsbericht einer Grundschule in Hamburg: <a href="https://fragdenstaat.de/anfrage/bericht-der-schulinspektion-schule-genslerstrae/">2010</a> & <a href="https://fragdenstaat.de/anfrage/bericht-der-schulinspektion-schule-genslerstrae-2015/">2015</a>
-Anfrage zur Schullandschaft im Kreis Kleve: <a href="https://fragdenstaat.de/anfrage/anfrage-zur-schullandschaft-im-kreis-kleve/">SchülerInnenzahlen & LehrerInnenstelle</a>
-Anfrage zur Fläche von Schulgeländen: <a href="https://fragdenstaat.de/anfrage/bebauung-schulgelande-ballerstaedtweg-iv/">Fünf Quadratmeter Schulhof je SchülerIn</a>
-Anfrage zu den Schulanmeldungen GHS Inden: <a href="https://fragdenstaat.de/anfrage/schulanmeldungen-ghs-inden/">2015/2016 - 287 Neuanmeldungen</a>
-Anfrage zu den Kooperationen des Bildungsministeriums NRW mit außerschulischen Partnern: <a href="https://fragdenstaat.de/anfrage/kooperationen-des-msw-mit-auerschulischen-partnern/">Bundeswehr, Bertelsmann Stiftung und Co.</a>
+<ul>
+    <li>Kompletter Schulinspektionsbericht einer Grundschule in Hamburg: <a href="https://fragdenstaat.de/anfrage/bericht-der-schulinspektion-schule-genslerstrae/">2010</a> & <a href="https://fragdenstaat.de/anfrage/bericht-der-schulinspektion-schule-genslerstrae-2015/">2015</a></li>
+    <li>Anfrage zur Schullandschaft im Kreis Kleve: <a href="https://fragdenstaat.de/anfrage/anfrage-zur-schullandschaft-im-kreis-kleve/">SchülerInnenzahlen & LehrerInnenstelle</a></li>
+    <li>Anfrage zur Fläche von Schulgeländen: <a href="https://fragdenstaat.de/anfrage/bebauung-schulgelande-ballerstaedtweg-iv/">Fünf Quadratmeter Schulhof je SchülerIn</a></li>
+    <li>Anfrage zu den Schulanmeldungen GHS Inden: <a href="https://fragdenstaat.de/anfrage/schulanmeldungen-ghs-inden/">2015/2016 - 287 Neuanmeldungen</a></li>
+    <li>Anfrage zu den Kooperationen des Bildungsministeriums NRW mit außerschulischen Partnern: <a href="https://fragdenstaat.de/anfrage/kooperationen-des-msw-mit-auerschulischen-partnern/">Bundeswehr, Bertelsmann Stiftung und Co.</a></li>
+</ul>
 
 <b>Was kann ich alles anfragen?</b>
 Grundsätzlich darf jede Person alle Informationen bei allen Behörden, Ämtern und Schulen anfragen. Dazu zählen beispielsweise Berichte von Schulinspektionen, Statistiken rund um SchülerInnenzahlen, aber auch Rechnungen. Dabei ist es auch egal, ob diese Informationen als Akten aus Papier oder bereits elektronisch vorliegen. Und das tolle ist: Mit FragDenStaat.de geht das in nur wenigen Minuten!
