@@ -6,7 +6,7 @@ tags: [schule]
 author: Leonard Wolf
 
 ---
-Schimmelnde Unterrichtsräume, überforderte Lehrerinnen und Lehrer und überfüllte Klassen - das ist der Alltag für viele Schülerinnen und Schüler in ganz Deutschland.
+14.11.2016 - Schimmelnde Unterrichtsräume, überforderte Lehrerinnen und Lehrer und überfüllte Klassen - das ist der Alltag für viele Schülerinnen und Schüler in ganz Deutschland.
 Wieso ist das so? Das fragen sich sowohl Eltern als auch SchülerInnen und LehrerInnen. Die Antwort heißt: Informationsfreiheitsgesetz!
 
 Mit dem Informationsfreiheitsgesetz dürfen alle Personen ohne Angabe von Gründen Behörden - und auch Schulen! - nach Dokumenten, Daten und Informationen anfragen.
