@@ -10,6 +10,8 @@ Hast du in diesem Jahr schon an FragDenStaat <a href="https://fragdenstaat.de/hi
 
 Einfach auf <a href="https://fragdenstaat.de/hilfe/spenden/#betterplace">unsere Betterplace-Projektseite klicken</a> und an uns einen selbstgewählten Betrag spenden. Das war’s. Mehr müsst ihr nicht tun, um uns doppelt zu unterstützen.
 
+<img src="https://github.com/okfde/blog.fragdenstaat.de/blob/gh-pages/img/spende.gif?raw=true">
+
 <strong>Wofür braucht ihr das Geld?</strong>
 
 Das Betreiben von FragDenStaat.de <a href="https://github.com/okfde/blog.fragdenstaat.de/raw/gh-pages/_posts/2016/FragDenStaat-2016.pdf">kostet viel Geld</a>. Für die Moderation und Weiterentwicklung der Website, das Aufsetzen eines Klagefonds und Unterstützung bei Anfragen wenden wir pro Jahr mehr als 20.000 Euro auf - letztes Jahr mit einem Minus, das wir nur durch Querfinanzierungen ausgleichen konnten.
