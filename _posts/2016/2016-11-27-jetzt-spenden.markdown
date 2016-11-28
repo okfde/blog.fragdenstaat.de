@@ -22,6 +22,6 @@ Am 29. November ist der von Betterplace.org veranstaltete GivingTuesday. Aus ein
 
 Du willst die Chance nutzen und gleich Fördermitglied werden? Dann schau dir <a href="http://000000.limited/">unsere Kunstaktion #000000</a> an. Für 250 Euro werdet ihr Fördermitglied von FragDenStaat. Als Dankeschön gibt es ein Teil unserer limititerten Volkswagen-Edition - auch als Weihnachtsgeschenk!
 
-Übrigens: Auch das OKF-Projekt Code for Germany nimmt am Dienstag an einer Verdopplungsaktion teil. Sie freuen sich auch <a href="https://www.betterplace.org/de/projects/49961-unterstutze-die-open-knowledge-labs">über Unterstützung</a>!
+Übrigens: Auch das OKF-Projekt <a href="https://www.betterplace.org/de/projects/49961-unterstutze-die-open-knowledge-labs">Code for Germany</a> nimmt am Dienstag an einer Verdopplungsaktion teil. Sie freuen sich auch <a href="https://www.betterplace.org/de/projects/49961-unterstutze-die-open-knowledge-labs">über Unterstützung</a>!
 
 <img src="https://netzpolitik.org/wp-upload/2016/09/000000.jpg">
