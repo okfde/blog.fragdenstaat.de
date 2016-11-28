@@ -6,7 +6,7 @@ tags: [spenden]
 
 ---
 
-Hast du in diesem Jahr schon an FragDenStaat <a href="https://fragdenstaat.de/hilfe/spenden/#betterplace">gespendet</a>? Falls nein, ist jetzt genau die richtige Möglichkeit dafür: Am Dienstag um 15 Uhr verdoppelt <a href="https://fragdenstaat.de/hilfe/spenden/#betterplace">Betterplace.org</a> jede Spende, die an FragDenStaat.de geht. Dir entstehen dabei keine Extrakosten. <strong><a href="https://fragdenstaat.de/hilfe/spenden/#betterplace">Jetzt spenden!</a></strong>
+Hast du in diesem Jahr schon an FragDenStaat <a href="https://fragdenstaat.de/hilfe/spenden/#betterplace">gespendet</a>? Falls nein, ist jetzt genau die richtige Möglichkeit dafür: Am Dienstag um 15 Uhr verdoppelt <a href="https://fragdenstaat.de/hilfe/spenden/#betterplace">Betterplace.org</a> für kurze Zeit jede Spende, die ab dann an FragDenStaat.de geht. Dir entstehen dabei keine Extrakosten. <strong><a href="https://fragdenstaat.de/hilfe/spenden/#betterplace">Hier geht es zur Spendenseite!</a></strong>
 
 Einfach auf <a href="https://fragdenstaat.de/hilfe/spenden/#betterplace">unsere Betterplace-Projektseite klicken</a> und an uns einen selbstgewählten Betrag spenden. Das war’s. Mehr müsst ihr nicht tun, um uns doppelt zu unterstützen.
 
