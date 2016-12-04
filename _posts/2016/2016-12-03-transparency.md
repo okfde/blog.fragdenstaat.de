@@ -11,7 +11,7 @@ We are very proud to launch the first German litigation fund for freedom of info
 
 Last year, about 10.000 freedom of information requests were filed to German federal authorities. Yet only 11 FOI lawsuits againts federal authorities were successful. We will change that.
 
-The litigation fund is open to anyone with a case already denied by German authorities and of strategical importantance. Users of the FOI platform FragDenStaat can apply directly on the website. The interface connects the documents obtained by the authorities with the litigation fund.
+The litigation fund is open to anyone with a case already denied by German authorities and of strategical importance. Users of the FOI platform FragDenStaat can apply directly on the website. The interface connects the documents obtained by the authorities with the litigation fund.
 
-The fund is financed mainly by donations. Initial funding for the initiative comes from the "bridge Foundation".
+The fund is financed mainly by donations. Initial funding for the initiative comes from the [bridge Foundation](https://www.stiftung-bridge.de/).
 
