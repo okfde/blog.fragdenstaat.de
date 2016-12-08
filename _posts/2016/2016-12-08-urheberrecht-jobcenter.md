@@ -16,7 +16,7 @@ Eine solch kreative Begründung für eine Ablehnung haben wir lange nicht gesehe
 
 Trotzdem wollen wir die Chuzpe der Nürnberger angemessen würdigen und den Weisungen zur wissenschaftlichen Ehre verhelfen, die ihnen offensichtlich zustehen.
 
-Deswegen haben wir für das Jobcenter Nürnberg-Stadt <a href="">eine eigene Verlagswebsite</a> ins Leben gerufen.
+Deswegen haben wir für das Jobcenter Nürnberg-Stadt <a href="https://okfde.github.io/jobcenter-nuernberg/">eine eigene Verlagswebsite</a> ins Leben gerufen.
 
 Auf der Seite wird das wissenschaftliche Standardwerk "Interne Weisungen und Arbeitshilfen des Jobcenter Nürnberg-Stadt" zum Verkauf angeboten. Wir haben gehört, es ist sehr gut und sehr wissenschaftlich. Schnell hinklicken und bestellen, bevor es vergriffen ist!
 
