@@ -24,14 +24,14 @@ Entscheidet sich der Bundestag in der ersten Sitzung im Januar dafür, den Geset
 
 Wir würden also zum Beispiel nicht vollständig herausfinden, ob wir vor, während und nach den Ermittlungen zum angeblichen #Landesverrat von den Geheimdiensten überwacht wurden. Ähnlich würde auch die vollständige Aufklärung vieler weiterer Skandale vielleicht für immer verhindert werden. Darunter sind zum Beispiel
 
-<li>Die SPIEGEL-Affäre und die Bespitzelung der Spiegel-Redaktion <a href="http://www.djv.de/startseite/service/blogs-und-intranet/djv-blog/detail/article/bundesverwaltungsgericht-will-unterlagen-von-bnd.html">durch den BND</a> 1962</li>
-<li>Verbindungen der christlichen Sekte "<a href="https://de.wikipedia.org/wiki/Colonia_Dignidad#Kontakte_zu_deutschen_Regierungskreisen">Colonia Dignidad</a>" in Chile zu deutschen Regierungskreisen</li>
-	<li>Hilfe deutscher Geheimdienste für <a href="http://www.gabyweber.com/index.php/de/prozesse/46-bundesnachrichtendienst-bnd-adolf-eichmann-ab-2008">Adolf Eichmann</a> nach dem 2. Weltkrieg</li>
-	<li>Die sogenannte <a href="https://de.wikipedia.org/wiki/Plutonium-Aff%C3%A4re">Plutonium-Affäre</a> 1994</li>
-	<li>Die angebliche Beteiligung des <a href="https://de.wikipedia.org/wiki/Bundesnachrichtendienst#Irak-Aff.C3.A4re">BND im Irakkrieg</a></li>
-	<li>Die Überwachung <a href="https://de.wikipedia.org/wiki/Journalisten-Skandal">deutscher und ausländischer Journalisten</a></li>
-	<li>Das <a href="https://de.wikipedia.org/wiki/Oktoberfestattentat#Hinweise_auf_m.C3.B6gliche_Mitt.C3.A4ter">Oktoberfest-Attentat</a> von 1980</li>
-	<li>Der <a href="https://de.wikipedia.org/wiki/Globale_%C3%9Cberwachungs-_und_Spionageaff%C3%A4re">NSA-BND-Skandal</a>, der durch Edward Snowden bekannt wurde</li>
+- Die SPIEGEL-Affäre und die Bespitzelung der Spiegel-Redaktion [durch den BND](http://www.djv.de/startseite/service/blogs-und-intranet/djv-blog/detail/article/bundesverwaltungsgericht-will-unterlagen-von-bnd.html) 1962
+- Verbindungen der christlichen Sekte "[Colonia Dignidad](https://de.wikipedia.org/wiki/Colonia_Dignidad#Kontakte_zu_deutschen_Regierungskreisen)" in Chile zu deutschen Regierungskreisen
+- Hilfe deutscher Geheimdienste für [Adolf Eichmann](http://www.gabyweber.com/index.php/de/prozesse/46-bundesnachrichtendienst-bnd-adolf-eichmann-ab-2008) nach dem 2. Weltkrieg
+- Die sogenannte [Plutonium-Affäre](https://de.wikipedia.org/wiki/Plutonium-Aff%C3%A4re) 1994
+- Die angebliche Beteiligung des [BND im Irakkrieg](https://de.wikipedia.org/wiki/Bundesnachrichtendienst#Irak-Aff.C3.A4re)
+- Die Überwachung [deutscher und ausländischer Journalisten](https://de.wikipedia.org/wiki/Journalisten-Skandal)
+- Das [Oktoberfest-Attentat](https://de.wikipedia.org/wiki/Oktoberfestattentat#Hinweise_auf_m.C3.B6gliche_Mitt.C3.A4ter) von 1980
+- Der [NSA-BND-Skandal](https://de.wikipedia.org/wiki/Globale_%C3%9Cberwachungs-_und_Spionageaff%C3%A4re), der durch Edward Snowden bekannt wurde
 
 
 Die <a href="https://netzpolitik.org/2016/geheimdienste-noch-geheimer-novelle-des-archivgesetzes-schwaecht-informationsfreiheit/">absurde Schutzfristregelung für Dokumente</a>, die bisher nach dem Informationsfreiheitsgesetz zugänglich waren, hat die Koalition immerhin offensichtlich wieder aus dem Reformentwurf entfernt. 
