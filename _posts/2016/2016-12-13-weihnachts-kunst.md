@@ -6,7 +6,7 @@ tags: [Kunstaktion]
 
 ---
 
-Alle Jahre wieder überlegt man, was man seinen Liebsten zu Weihnachten schenken kann. Wem Socken und Krawatte zu langweilig ist, kann dieses Jahr auch einmal etwas ganz besonderes schenken: die einmalige FragDenStaat-Kunst #000000.
+Alle Jahre wieder überlegt man, was man seinen Liebsten zu Weihnachten schenken kann. Wem Socken und Krawatten zu langweilig sind, kann dieses Jahr auch einmal etwas ganz besonderes schenken: die einmalige FragDenStaat-Kunst #000000.
 
 
 <img src="https://raw.githubusercontent.com/okfde/blog.fragdenstaat.de/gh-pages/img/christmas-gif.gif">
