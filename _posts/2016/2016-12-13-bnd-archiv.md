@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reform des Archivgesetzes: Wenn große Koalition erfolgreich ist, wird #Landesverrat nie ganz aufgeklärt"
-date: '2016-12-13T12:16:23+02:00'
+date: '2016-12-13T17:16:23+02:00'
 tags: [Kunstaktion]
 
 ---
