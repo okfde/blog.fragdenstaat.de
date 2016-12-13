@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "geschwärzte Weihnachten!"
+title: "Geschwärzte Weihnachten!"
 date: '2016-12-13T12:16:23+02:00'
 tags: [Kunstaktion]
 
