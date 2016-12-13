@@ -23,4 +23,4 @@ Gleichzeitig hat das Werk des Ministeriums aber auch einen hohen künstlerischen
 
 Und nun das besondere: Wir haben noch einige wenige Exemplare der auf 50 Stück limitierten Kunstaktion auf Lager. Deshalb gibt es nun eine der letzten Möglichkeiten zu Weihnachten dieses einmalige Werk zu erhalten! Also noch schnell Fördermitglied werden und dieses Kunstwerk als exklusives Weihnachtsgeschenk erhalten: <a href="http://000000.limited">000000.limited</a>
 
-<img src="https://raw.githubusercontent.com/okfde/blog.fragdenstaat.de/gh-pages/img/FDS_Kunst_Christmas_klein.jpg">
+<a href="http://000000.limted"><img src="https://raw.githubusercontent.com/okfde/blog.fragdenstaat.de/gh-pages/img/FDS_Kunst_Christmas_klein.jpg"></a>
