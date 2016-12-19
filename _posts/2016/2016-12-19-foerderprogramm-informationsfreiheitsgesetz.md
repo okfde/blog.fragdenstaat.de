@@ -7,7 +7,7 @@ tags:
 ---
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Figuren_klein.jpg">
 
-<b>Wikimedia Deutschland und Open Knowledge Foundation machen ernst: Wir ermöglichen Zugang ohne Gebühren</b>
+*Bild: Wikimedia Deutschland e.V., <a href="https://commons.wikimedia.org/wiki/File:Figuren_klein.jpg">Figuren klein</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/legalcode">CC BY-SA 3.0</a>*
 
 120 Euro für einen Datenbankabzug, 80 Euro für Kopien historischer Dokumente oder 250 Euro für eine Liste der Geschenke an die Staatssekretäre? Wer Anfragen nach dem Informationsfreiheitsgesetz (IFG) an deutsche Behörden stellt, muss Auskünfte mitunter fürstlich bezahlen. Bis zu 500 Euro können Bundesbehörden nach der Gebührenordnung des IFG pro Anfrage berechnen, Landesbehörden teilweise noch mehr. Dem Gesetz nach sollen die Gebühren allerdings nicht abschreckend sein: Damit „der Informationszugang wirksam in Anspruch genommen werden“ kann, sollen zum Beispiel einfache Anfragen kostenfrei bleiben.
 
