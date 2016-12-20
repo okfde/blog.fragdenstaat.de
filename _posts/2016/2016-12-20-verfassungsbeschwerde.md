@@ -14,6 +14,8 @@ Der Zwang zum Identitätsnachweis ist de facto eine **Lex FragDenStaat**: Wir er
 
 Es kann nicht sein, dass für die Wahrnehmung des einen Grundrechts Teile eines anderen Grundrechts aufgegeben werden müssen. Im Gegenteil ist die Möglichkeit, anonym Anträge zu stellen, ein wirksames Mittel, um gerade beim Umgang mit Behörden nicht geübten BürgerInnen Ängste vor der Wahrnehmung von Informationsrechten zu nehmen.
 
+<img src="https://raw.githubusercontent.com/okfde/blog.fragdenstaat.de/gh-pages/_posts/2016/artikel5.jpg">
+
 Ein weiterer Kritikpunkt unser Verfassungsbeschwerde betrifft Hochschulen. Bis auf einzelne Informationen etwa über Namen von Drittmittelgebern müssen Wissenschaftseinrichtungen mit dem neuen Gesetz keine Auskunft mehr geben. Damit lässt sich nicht mehr überprüfen, ob zum Beispiel durch Kooperationen mit der Industrie eine Gefährdung der **Wissenschaftsfreiheit** droht. Gerade in Rheinland-Pfalz ist das ein [akutes Thema](http://www.swr.de/landesschau-aktuell/rp/umstrittene-zusammenarbeit-mit-boehringer-ingelheim-uni-mainz-will-vertraege-mit-stiftung-aendern/-/id=1682/did=17725366/nid=1682/143nl69/).
 
 Unsere Verfassungsbeschwerde hat über Rheinland-Pfalz hinaus Bedeutung: Auch in anderen Bundesländern und [auf Bundesebene](https://fragdenstaat.de/anfrage/ubersichtsliste-der-internen-weisungen-7/#nachricht-59167) fordern Behörden immer wieder Identitätsnachweise für Anfragen. Auch Bereichsausnahmen für bestimmte öffentliche Stellen sind Teil fast aller Informationsfreiheitsgesetze in Deutschland.
@@ -21,3 +23,5 @@ Unsere Verfassungsbeschwerde hat über Rheinland-Pfalz hinaus Bedeutung: Auch in
 Wir haben die Verfassungsbeschwerde sowohl beim Bundesverfassungsgericht als auch beim Verfassungsgerichtshof Rheinland-Pfalz eingereicht. **[Hier geht es zur vollständigen Beschwerdeschrift](https://transparenzklagen.de/files/2016/12/verfassungsbeschwerde.pdf)**.
 
 *Im Rahmen der [Initiative Transparenzklagen.de](https://transparenzklagen.de/) unterstützen wir mit der [Gesellschaft für Freiheitsrechte e.V.](https://freiheitsrechte.org/) Klagen nach den Informationsfreiheitsgesetzen. Die Finanzierung von Transparenzklagen.de erfolgt durch Spenden und die Förderung durch Stiftungen.*
+
+Bild: <a href="https://www.flickr.com/photos/prinsessan_j/486245826/">Julia</a> via flickr (CC BY-NC-ND 2.0)
