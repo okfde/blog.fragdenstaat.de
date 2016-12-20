@@ -24,4 +24,4 @@ Wir haben die Verfassungsbeschwerde sowohl beim Bundesverfassungsgericht als auc
 
 *Im Rahmen der [Initiative Transparenzklagen.de](https://transparenzklagen.de/) unterstützen wir mit der [Gesellschaft für Freiheitsrechte e.V.](https://freiheitsrechte.org/) Klagen nach den Informationsfreiheitsgesetzen. Die Finanzierung von Transparenzklagen.de erfolgt durch Spenden und die Förderung durch Stiftungen.*
 
-Bild: <a href="https://www.flickr.com/photos/prinsessan_j/486245826/">Julia</a> via flickr (CC BY-NC-ND 2.0)
+Bild: <a href="https://www.flickr.com/photos/prinsessan_j/486245826/">Julia</a> via flickr (<a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>)
