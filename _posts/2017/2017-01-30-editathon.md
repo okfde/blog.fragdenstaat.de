@@ -16,10 +16,12 @@ Der Begriff “Editathon” setzt sich zusammen aus dem Begriff “editieren”,
 <iframe src="//giphy.com/embed/o0vwzuFwCGAFO" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <b>Wann und wo findet der Editathon statt?<b>
-Am Samstag, den 18.02.2017, von 12 bis 16 Uhr im Büro der Wikimedia Deutschland (Tempelhofer Ufer 23/24, 10963 Berlin). Ihr kommt von außerhalb Berlins und wollt extra anreisen? Kein Problem! Meldet euch bei uns und wir können voraussichtlich die Reisekosten übernehmen.
+Am Samstag, den 18.02.2017, von 12 bis 16 Uhr im Büro der Wikimedia Deutschland (Tempelhofer Ufer 23/24, 10963 Berlin). Ihr kommt von außerhalb Berlins und wollt extra anreisen? Kein Problem! Meldet euch bei community@wikimedia.de damit die Reisekosten übernommen werden.
 
 <b>Was wird passieren?<b>
 Zuerst gibt es noch mal einen kleinen Einführungsworkshop dazu, wie man die Wikipedia richtig bearbeitet. Und danach geht es auch schon los!
 
 <b>Ihr habt noch Fragen?<b>
 Wenn ihr noch etwas wissen wollt, kein Problem. Meldet euch einfach bei mir, Leonard Wolf per Mail (leonard.wolf@okfn.de) oder Telefon (+49 30 57703666 0).
+
+Wenn ihr dabei sein wollt, dann tragt euch gerne auf der entsprechenden Wikipediaseite dazu ein: <a href="https://de.wikipedia.org/wiki/Wikipedia:Berlin#Samstag.2C_18._Februar_2017.2C_12.E2.80.9316_Uhr:_Freies_Wissen_in_der_Wikipedia">18.02. - Freies Wissen in der Wikipedia</a>
