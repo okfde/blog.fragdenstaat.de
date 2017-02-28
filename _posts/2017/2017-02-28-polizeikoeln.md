@@ -1,19 +1,20 @@
 ---
 layout: post
-title: "Sylvesternacht: Darum verklagen wir die Polizei Köln"
+title: "Silvesternacht: Darum verklagen wir die Polizei Köln"
 date: '2017-02-28T08:00:23+02:00'
 tags: [Köln]
 
 ---
-Wenige Wochen ist es her, dass die Polizei Köln wegen ihres Verhaltens in der Sylvesternacht <a href="http://amnesty-polizei.de/massives-racial-profiling-durch-die-koelner-polizei-in-der-silvesternacht-massnahme-muss-kritisch-aufgearbeitet-werden/">stark in die Kritik</a> geraten ist. Um Straftaten zu vermeiden, hatte die Polizei am Kölner Dom Hunderte Menschen in einem Polizeikessel festgehalten, die nach Angaben der Polizei <a href="https://fragdenstaat.de/anfrage/interne-definition-nafri/#nachricht-60037">"Nafris"</a> waren - eine polizeiinterne Bezeichnung für Personen, die nach Einschätzung der PolizistInnen Straftäter sind und aus Ländern Nordafrikas oder des Nahen Ostens kommen. Kritiker warfen der Polizei daraufhin unter anderem <a href="https://de.wikipedia.org/wiki/Racial_Profiling">"Racial Profiling"</a> vor.
+Wenige Wochen ist es her, dass die Polizei Köln wegen ihres Verhaltens in der Silvesternacht <a href="http://amnesty-polizei.de/massives-racial-profiling-durch-die-koelner-polizei-in-der-silvesternacht-massnahme-muss-kritisch-aufgearbeitet-werden/">stark in die Kritik</a> geraten ist. Um Straftaten zu vermeiden, hatte die Polizei am Kölner Dom Hunderte Menschen in einem Polizeikessel festgehalten, die nach Angaben der Polizei <a href="https://fragdenstaat.de/anfrage/interne-definition-nafri/#nachricht-60037">"Nafris"</a> waren - eine polizeiinterne Bezeichnung für Personen, die nach Einschätzung der PolizistInnen Straftäter sind und aus Ländern Nordafrikas oder des Nahen Ostens kommen. Kritiker warfen der Polizei daraufhin unter anderem <a href="https://de.wikipedia.org/wiki/Racial_Profiling">"Racial Profiling"</a> vor.
 
-Wir wollen mehr über das Vorgehen der Polizei in der Sylvesternacht erfahren. Deswegen haben wir das Kölner Polizeipräsidium in einer <a href="https://fragdenstaat.de/anfrage/ifg-dokumente-zum-einsatz-um-den-kolner-hauptbahnhof-am-sylvesterabend/#nachricht-60968">Anfrage nach dem Informationsfreiheitsgesetz</a> (IFG) gebeten, uns sämtliche Tätigkeitsberichte und Verlaufsprotokolle der Polizeibeamten um den Kölner Dom aus der Sylvesternacht zuzusenden. 
+Wir wollen mehr über das Vorgehen der Polizei in der Silvesternacht erfahren. Deswegen haben wir das Kölner Polizeipräsidium in einer <a href="https://fragdenstaat.de/anfrage/ifg-dokumente-zum-einsatz-um-den-kolner-hauptbahnhof-am-sylvesterabend/#nachricht-60968">Anfrage nach dem Informationsfreiheitsgesetz</a> (IFG) gebeten, uns sämtliche Tätigkeitsberichte und Verlaufsprotokolle der Polizeibeamten um den Kölner Dom aus der Silvesternacht zuzusenden. 
 
 <h3>Argumentation der Polizei ist falsch</h3>
 
 Die Polizei lehnte unseren Antrag allerdings ab. Polizeieinsätze seien nicht Teil der Verwaltung und damit von der Pflicht befreit, Auskünfte zu geben. Die Argumentation der Behörde ist offensichtlich falsch: Nach <a href="https://openjur.de/u/147240.html">geltender Rechtssprechung</a> sind die meisten Polizeitätigkeiten vom IFG erfasst.
 
-Daher <a href="https://fragdenstaat.de/files/foi/62965/klage-polizei.pdf">klagen wir gegen die Polizei</a>. Das Verwaltungsgericht Köln soll entscheiden, dass die Informationen herausgegeben werden müssen. Dabei dürfte die eigentlich zentral zu klärende Frage sein, ob die Polizei repressiv oder präventiv tätig wurde. Erteilen Polizeibeamte etwa Platzverweise oder verhaften Menschen, müssen sie über diese repressiven Tätigkeiten in der Regel keine Auskunft nach dem IFG geben. Anders bei präventiven Maßnahmen, die laut Polizei vor allem in der Sylvesternacht angewendet wurden: Informationen etwa zu Befragungen und Identitätsfeststellungen müssen herausgegeben werden.
+Daher <a href="https://fragdenstaat.de/files/foi/62965/klage-polizei.pdf">klagen wir gegen die Polizei</a>. Das Verwaltungsgericht Köln soll entscheiden, dass die Informationen herausgegeben werden müssen. Dabei dürfte die eigentlich zentral zu klärende Frage sein, ob die Polizei repressiv oder präventiv tätig wurde. Erteilen Polizeibeamte etwa Platzverweise oder verhaften Menschen, müssen sie über diese repressiven Tätigkeiten in der Regel keine Auskunft nach dem IFG geben. Anders bei präventiven Maßnahmen, die laut Polizei vor allem in der 
+esternacht angewendet wurden: Informationen etwa zu Befragungen und Identitätsfeststellungen müssen herausgegeben werden.
 
 <h3>Klage aus Prinzip</h3>
 
