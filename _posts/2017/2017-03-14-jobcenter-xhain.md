@@ -29,3 +29,5 @@ Inzwischen vermittelt auch die Bundesbeauftragte für Informationsfreiheit in de
 Wollte das Jobcenter sich selbst und uns Zeit und Geld sparen, würde es einfach alle Weisungen veröffentlichen. So wie es andere Jobcenter <a href="https://fragdenstaat.de/anfrage/interne-weisungen-teamarbeithamburg/">auch getan haben</a>. Umso interessanter ist für uns jetzt natürlich das Ziel der Anfrage. Welche internen Weisungen hat das Jobcenter Friedrichshain-Kreuzberg, die es nicht herausgeben will?
 
 Zur Finanzierung der Klage bitten wir euch um <a href="https://fragdenstaat.de/hilfe/spenden/">Spenden</a>. Wir versprechen: Bei uns ist Geld auch besser aufgehoben als beim Jobcenter.
+
+<i>Klagen nach den Informationsfreiheitsgesetzen fördern wir mit Know-How und Geld in unserem Projekt <a href="http://transparenzklagen.de/">Transparenzklagen.de</a>. Jetzt bewerben!</i>
