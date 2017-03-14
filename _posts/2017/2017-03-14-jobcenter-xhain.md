@@ -10,7 +10,7 @@ Das Berliner Jobcenter Friedrichshain-Kreuzberg verbrennt Geld und Zeit. Vor etw
 <a href="https://fragdenstaat.de/anfrage/ubersichtsliste-der-internen-weisungen-7/">
 welche internen Weisungen es hat</a>. Jetzt müssen wir klagen, um die Informationen zu bekommen.
 
-Die ursprüngliche Antwort des Jobcenters auf unsere Anfrage war skurill, aber nicht ganz ungewöhnlich: Es verlangte von uns einen <a href="https://fragdenstaat.de/anfrage/ubersichtsliste-der-internen-weisungen-7/#nachricht-57653">Identitätsnachweis</a> zur Antragsstellung - angeblich, weil nicht klar sei, wer den Antrag stellt. Wir sollten persönlich vorstellig werden und uns ausweisen.
+Die ursprüngliche Antwort des Jobcenters auf unsere Anfrage war skurril, aber nicht ganz ungewöhnlich: Es verlangte von uns einen <a href="https://fragdenstaat.de/anfrage/ubersichtsliste-der-internen-weisungen-7/#nachricht-57653">Identitätsnachweis</a> zur Antragsstellung - angeblich, weil nicht klar sei, wer den Antrag stellt. Wir sollten persönlich vorstellig werden und uns ausweisen.
 
 <h3>Infos nur mit Personalausweis?</h3>
 
