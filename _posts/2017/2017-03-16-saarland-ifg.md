@@ -13,15 +13,15 @@ In dem von Mehr Demokratie e.V. und der Open Knowledge Foundation veröffentlich
 
 Wie stehen die großen Parteien zur Landtagswahl 2017 in ihren Wahlprogrammen zum LIFG? Wird Änderungsbedarf genannt? Diese Frage lässt sich durch einen Blick in die veröffentlichten Wahlprogramme zur Landtagswahl erörtern. 
 
-CDU: In dem Wahlprogramm findet sich hierzu kein direkter Hinweis.
+<strong>CDU</strong>: In dem Wahlprogramm findet sich hierzu kein direkter Hinweis.
 
-DIE LINKE: In dem Wahlprogramm findet sich hierzu kein direkter Hinweis.
+<strong>DIE LINKE</strong>: In dem Wahlprogramm findet sich hierzu kein direkter Hinweis.
 
-FDP: In dem Wahlprogramm findet sich hierzu kein direkter Hinweis.
+<strong>FDP</strong>: In dem Wahlprogramm findet sich hierzu kein direkter Hinweis.
 
-SPD: In dem Wahlprogramm findet sich hierzu kein direkter Hinweis.
+<strong>SPD</strong>: In dem Wahlprogramm findet sich hierzu kein direkter Hinweis.
 
-Bündnis 90/Die Grünen: In dem Kapitel 7 „Demokratie und Recht - Innere Sicherheit“ gibt es ein eigenes Unter-Kapitel für das Thema Informationsfreiheit. Auf Seite 64 heißt es:
+<strong>Bündnis 90/Die Grünen</strong>: In dem Kapitel 7 „Demokratie und Recht - Innere Sicherheit“ gibt es ein eigenes Unter-Kapitel für das Thema Informationsfreiheit. Auf Seite 64 heißt es:
 
 „Wir wollen die im Saarländischen Informationsfreiheitsgesetz vorhandenen Ausnahmetatbestände einer kritischen Prüfung unterziehen, den Informationszugang im Rahmen privatisierter öffentlicher Aufgaben deutlich verbessern und keine abschreckenden Gebühren. In diesem Rahmen möchten wir die Bürgerinnen und Bürger offensiv über ihr Recht auf Informationszugang aufklären und die Verwaltungen für den immer noch recht neuen Grundsatz der Aktenöffentlichkeit verstärkt sensibilisieren.
 Wir Grüne wollen zudem eine umfängliche aktive Veröffentlichungspflicht der Landes- und Kommunalverwaltungen implementieren und diese durch ein landesweites digitales Open-Data-Portal sukzessive umsetzen. Denn frei zugängliche Informationen der Verwaltungen fördern einerseits Transparenz und Bürgernähe und tragen so zum Abbau eines Demokratiedefizits bei, andererseits stärken sie die wirtschaftliche Innovationskraft, wenn Unternehmen auf diese Informationen zugreifen können.“
