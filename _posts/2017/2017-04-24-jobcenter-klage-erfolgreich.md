@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Klage gewonnen: Berliner Jobcenter zahlt Lehrgeld"
-date: '2017-03-24T06:00:23+02:00'
+date: '2017-03-24T05:00:23+01:00'
 tags: [jobcenter]
 ---
 
