@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Neu: Unser Entwurf für ein Berliner Transparenzgesetz"
+title: "Entwurf für Transparenzgesetz Niedersachsen ist Mogelpackung"
 date: '2017-05-09T06:00:23+01:00'
 tags: [Niedersachsen]
 ---
