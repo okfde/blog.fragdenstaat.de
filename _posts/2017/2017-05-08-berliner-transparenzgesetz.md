@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neu: Unser Entwurf für ein Berliner Transparenzgesetz"
-date: '2017-05-08T06:00:23+01:00'
+date: '2017-05-10T10:00:23+01:00'
 tags: [Transparenzgesetz]
 ---
 
