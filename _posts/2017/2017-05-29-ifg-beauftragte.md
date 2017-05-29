@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "19,3 Stellen für die Demokratie"
+title: "Ausstattung der IFG-Beauftragten: 19,3 Stellen für die Demokratie"
 date: '2017-05-28T06:00:23+01:00'
 tags: 
 ---
@@ -9,6 +9,8 @@ Krude Ausreden von Ämtern und Ministerien, uneinsichtige Behörden, nicht beant
 
 “Jeder kann die Bundesbeauftragte für die Informationsfreiheit anrufen, wenn er sein Recht auf Informationszugang nach dem Informationsfreiheitsgesetz (IFG) als verletzt ansieht.” So ist die Funktion der Bundesbeauftragten für Datenschutz und Informationsfreiheit erklärt. 
 Bei ihr und den Landesbeauftragten sieht es so aus: Wenn man bei FragDenStaat nicht in der vorgegebenen Frist eine Antwort auf seine Anfrage erhalten hat oder der Meinung ist, dass einem Informationen vorenthalten oder zu hohe Kosten in Rechnung gestellt werden, dann kann man den/die jeweilige Beauftragte/n für Informationsfreiheit um Vermittlung bitten. 
+
+<h3>Fehlende Ressourcen, fehlende Kompetenzen</h3>
 
 Doch in der Realität ist dieser Prozess meistens sehr langwierig: So dauert es nach der ersten Bitte um Vermittlung und der folgenden Reaktion der/des Beauftragten oftmals mehrere Monate, wie Beispiele aus Thüringen und Berlin zeigen. Dabei wäre es sinnvoll, wenn die Beauftragten innerhalb eines Monats vermitteln könnten. Warum ist das so?
 
