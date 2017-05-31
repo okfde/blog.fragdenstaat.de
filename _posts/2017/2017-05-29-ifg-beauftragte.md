@@ -15,7 +15,7 @@ Die fehlende Durchschlagskraft hängt zum einen mit fehlenden Befugnissen der St
 
 Zum anderen ist es aufgrund der Ausstattung kaum möglich, Eingaben zufriedenstellend zu beantworten. In allen Bundesländern und auf Bundesebene gibt es insgesamt 19,3 Stellen bei Beauftragten für Informationsfreiheit. Mit 0,5 Stellen haben Bremen, das Saarland und Thüringen die wenigsten und Berlin mit 2,5 die meisten Stellen der Bundesländer. Das sind acht Prozent weniger Stellen als noch 2016. Und auch die vier Stellen für Informationsfreiheit bei der Bundesbeauftragten sind deutlich zu wenig: So gingen zum Beispiel 2015 insgesamt 640 Eingaben für Vermittlungen bei der Stelle ein - das ist vom zuständigen Referat kaum zu bewältigen. 
 
-<img src="https://raw.githubusercontent.com/okfde/blog.fragdenstaat.de/gh-pages/img/IFG_Ausstattung.png">
+<img src="https://raw.githubusercontent.com/okfde/blog.fragdenstaat.de/gh-pages/img/IFG_Ausstattung_verbessert.png">
 
 Das ließe sich ändern, würden die Beauftragten - und auch die Zuständigen bei anderen öffentlichen Stellen - mit ausreichend finanziellen und personellen Ressourcen ausgestattet. International sind vergleichbare Behörden deutlich besser besetzt. Die mexikanischen Beauftragten für Informationsfreiheit verfügen etwa über 200 MitarbeiterInnen.
 
