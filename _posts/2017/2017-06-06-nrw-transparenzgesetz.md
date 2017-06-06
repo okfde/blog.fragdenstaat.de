@@ -4,7 +4,7 @@ title: "Nordrhein-Westfalen: Transparenzgesetz bleibt geheim"
 date: '2017-06-06T12:00:23+01:00'
 tags: 
 ---
-https://cdn.netzpolitik.org/wp-upload/2017/06/nrw-spd-gruene-1200x675.jpg
+<img src="https://cdn.netzpolitik.org/wp-upload/2017/06/nrw-spd-gruene-1200x675.jpg">
 
 "Wir werden die Veröffentlichungspflichten der öffentlichen Stellen deutlich ausweiten und damit das Informationsfreiheitsgesetz hin zu einem Transparenzgesetz weiterentwickeln." Der <a href="https://netzpolitik.org/wp-upload/Koalitionsvertrag_2012-2017.pdf">Koalitionsvertrag der scheidenden rot-grünen Regierung</a> in Nordrhein-Westfalen sprach eine deutliche Sprache: Zentrale Dokumente der Verwaltung wie Verträge und interne Weisungen sollten nicht nur auf Anfrage, sondern aktiv veröffentlicht werden.
 
