@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unsere neue Kampagne: Welche Lobbyisten schreiben Gesetze mit?"
-date: '2017-06-06T12:00:23+01:00'
+date: '2017-06-15T12:00:23+01:00'
 tags: 
 ---
 <img src="https://cdn.netzpolitik.org/wp-upload/2017/06/stellungnahmen_lobbyisten-1200x675.png">
