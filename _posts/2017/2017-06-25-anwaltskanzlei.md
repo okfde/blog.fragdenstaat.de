@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jenaer Kanzlei wegen IFG-Missbrauch durchsucht"
+title: "Jenaer Kanzlei wegen IFG-Missbrauchs durchsucht"
 date: '2017-06-25T12:00:23+01:00'
 tags: 
 ---
