@@ -12,5 +12,5 @@ Unter diesem [Link zu SurveyMonkey](https://www.surveymonkey.de/r/SSPHQX8) und d
 
 Die Umfrage ist bis zum 30. September 2017 freigeschaltet und bezieht sich auf den Zeitraum vom 1. Januar 2015 bis zum 1. Juli 2017.
 
-Nähere Informationen zu den Zielen der Evaluation, dem Projektkonsortium sowie dem Projektverlauf finden sich unter: http://www.ufu.de/projekt/evaluation-des-umweltinformationsgesetzes/.
+Nähere Informationen zu den Zielen der Evaluation, dem Projektkonsortium sowie dem Projektverlauf [finden sich hier](http://www.ufu.de/projekt/evaluation-des-umweltinformationsgesetzes/).
 
