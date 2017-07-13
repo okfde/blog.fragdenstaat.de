@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GläserneGesetze erfolgreich: Bundesregierung will tausende Lobby-Dokumente veröffentlichen"
-date: '2017-07-11T12:00:23+01:00'
+date: '2017-07-13T14:00:23+01:00'
 tags: 
 ---
 
