@@ -13,7 +13,7 @@ The "Verbändebeteiligung", as this procedure is called, is a traditional part o
 
 Our campaign <a href="https://fragdenstaat.de/gesetze/">“Gläserne Gesetze” (transparent laws)</a> changed that now: Together with our partners at Parliament Watch, we set out to make the decision-making-process more transparent and force the German government to publish all draft laws and lobby documents. Over the past 10 months, we researched the names of all laws that were introduced to parliament by the cabinet and requested the names of all lobbyists that were consulted in the process. With the resulting list of thousands of documents, we set up a database within FragDenStaat.de, Germany's Freedom of Information Portal.
 
-<img src="https://raw.githubusercontent.com/okfde/blog.fragdenstaat.de/gh-pages/img/lobby.jpg">
+<a href="https://fragdenstaat.de/gesetze/"><img src="https://raw.githubusercontent.com/okfde/blog.fragdenstaat.de/gh-pages/img/lobby.jpg"></a>
 
 In mid-June we launched our campaign based on this database. It made it possible to click on the individual title of each lobby document, thereby sending out a previously prepared freedom of information request to the respective ministry via e-mail. Over the first seven days of the campaign, more than 1.600 people had requested a document - equalling more requests than the ministries usually get in an entire year! As you can imagine, that did not go unnoticed. The Ministry of the Interior called us within the first 24 hours of our campaign to try to stop it, but we did not concede. A couple days later they contacted us again and promised to work with other ministries to release all documents proactively and we agreed to pause the campaign to give them time for deliberation.
 
@@ -27,4 +27,4 @@ With the success of our campaign, we believe that we have found a strong tool to
  
 In Germany, we might use the tool to target other parts of decision-making processes next. For example, the meetings of lobbyists with government officials are not made transparent yet. Let’s see what we can do about that. 
 
-<img src="https://raw.githubusercontent.com/okfde/blog.fragdenstaat.de/gh-pages/img/recom.jpg">
+<a href="https://www.access-info.org/decision-making-transparency"><img src="https://raw.githubusercontent.com/okfde/blog.fragdenstaat.de/gh-pages/img/recom.jpg"></a>
