@@ -7,11 +7,11 @@ tags: [Transparency]
 
 As you might expect, Law-making in Germany is a highly-regulated business. Even though theoretically all members of parliament have the power to draft laws, for most policy areas the first version of new laws are being drafted by the Federal Ministries. Before they send their proposals to the cabinet for approval and eventually to the parliament, they have others take a look at it. As is stated in the ministries' shared <a href="http://www.verwaltungsvorschriften-im-internet.de/bsvwvbund_21072009_O11313012.htm">rules of procedures</a>, most draft laws have to be sent to relevant federations, unions and other lobbyists for feedback.
 
-The "Verbändebeteiligung", as this procedure is called, is a traditional part of German law-making. Therefore, associations and federations have a great deal of influence within the decision-making-process. However, they are not very transparent: In the last four years, only a couple of the over 600 draft laws and accompanying 17.000 lobby feedback documents were made public for everyone to see. The others are hidden from public eye. Therefore, it is not possible to track what kind of changes lobbyists introduce to draft laws. 
+The "Verbändebeteiligung", as this procedure is called, is a traditional part of German law-making. Therefore, associations and federations have a great deal of influence within the decision-making process. However, they are not very transparent: In the last four years, only a couple of the over 600 draft laws and accompanying 17.000 lobby feedback documents were made public for everyone to see. The others are hidden from public eye. Therefore, it is not possible to track what kind of changes lobbyists introduce to draft laws. 
 
 <h3>Database with all documents</h3>
 
-Our campaign <a href="https://fragdenstaat.de/gesetze/">“Gläserne Gesetze” (transparent laws)</a> changed that now: Together with our partners at Parliament Watch, we set out to make the decision-making-process more transparent and force the German government to publish all draft laws and lobby documents. Over the past 10 months, we researched the names of all laws that were introduced to parliament by the cabinet and requested the names of all lobbyists that were consulted in the process. With the resulting list of thousands of documents, we set up a database within FragDenStaat.de, Germany's Freedom of Information Portal.
+Our campaign <a href="https://fragdenstaat.de/gesetze/">“Gläserne Gesetze” (transparent laws)</a> changed that now: Together with our partners at Parliament Watch, we set out to make the decision-making process more transparent and force the German government to publish all draft laws and lobby documents. Over the past 10 months, we researched the names of all laws that were introduced to parliament by the cabinet and requested the names of all lobbyists that were consulted in the process. With the resulting list of thousands of documents, we set up a database within FragDenStaat.de, Germany's Freedom of Information Portal.
 
 <a href="https://fragdenstaat.de/gesetze/"><img src="https://raw.githubusercontent.com/okfde/blog.fragdenstaat.de/gh-pages/img/lobby.jpg"></a>
 
@@ -21,7 +21,7 @@ And what do you know, our strategy proved successful! Last week the government l
 
 <h3>Similar campaign in other countries</h3>
 
-With the prospected change in transparency concerning the decision-making-process, Germany might actually be one of the more transparent states in Europe for once. As the <a href="https://www.access-info.org/decision-making-transparency">campaign on decision-making transparency by Access Info shows</a>, most critical information concerning decision-making in Europe is still not public.
+With the prospected change in transparency concerning the decision-making process, Germany might actually be one of the more transparent states in Europe for once. As the <a href="https://www.access-info.org/decision-making-transparency">campaign on decision-making transparency by Access Info shows</a>, most critical information concerning decision-making in Europe is still not public.
 
 With the success of our campaign, we believe that we have found a strong tool to use freedom of information laws in campaigns to open up the government. Access Info has <a href="https://www.access-info.org/article/29101">used a similar method</a> to try to get the EU commissioners’ expenses published.
  
