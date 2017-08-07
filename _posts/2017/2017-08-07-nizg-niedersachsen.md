@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Niedersachsen: Regierungskrise legt Informationsfreiheit flach"
-date: '2017-08-07T10:00:23+01:00'
+title: "Niedersachsen: Regierungskrise beerdigt Informationsfreiheit"
+date: '2017-08-07T08:00:23+01:00'
 tags: [Niedersachsen]
 ---
 
