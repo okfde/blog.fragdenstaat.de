@@ -9,7 +9,7 @@ tags: [Bundestagswahl]
 
 Im [Transparenzranking](https://transparenzranking.de/laender/bund/) von Open Knowledge Foundation und Mehr Demokratie erreicht das Informationsfreiheitsgesetz des Bundes (IFG) nur 38 von möglichen 100 Punkten - schlechter als die meisten Regelungen der Bundesländer. Trotz zahlreichem Verbesserungsbedarf und zahlreicher Vorschläge - darunter eine [offizielle Evaluation]( https://www.transparency.de/fileadmin/pdfs/Themen/Verwaltung/Informationsfreiheit_/174522BEvaluationIFGGutachten.pdf) - wurde das Gesetz durch die Regierung bisher nicht geändert.
 
-*Wie sagen die Wahlprogramme der großen Parteien zum IFG?* 
+**Was sagen die Wahlprogramme der großen Parteien zum IFG?**
 
 <h3>CDU/CSU</h3>
 Kein Hinweis.
