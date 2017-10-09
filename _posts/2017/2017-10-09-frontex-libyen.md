@@ -23,6 +23,6 @@ Die amateurhaft wirkenden Vortragsmaterialien deuten darauf hin, dass die Schnel
 
 <a href="https://youtu.be/iULdZrSgSNI">Video von Frontex zu Menschenhandel</a>
 
-Dass Frontex selbst ein Training in Operational Security gebrauchen könnte, zeigen die Folien zur Verifizierung von Dokumenten. Die sind von Frontex so dilettantisch geschwärzt worden, dass sie mit geeigneten Programmen mühelos entschwärzt werden können.
+Dass Frontex selbst ein Training in Operational Security gebrauchen könnte, zeigen die Folien zur Verifizierung von Dokumenten. Die sind von Frontex so dilettantisch geschwärzt worden, dass sie mit geeigneten Programmen <a href="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=e66ee214-acd7-11e7-b263-0edaf8f81e27">mühelos entschwärzt werden können</a>.
 
-<img src="/img/redacted.gif">
+<iframe frameborder="0" class="juxtapose" width="100%" height="693" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=e66ee214-acd7-11e7-b263-0edaf8f81e27"></iframe>
