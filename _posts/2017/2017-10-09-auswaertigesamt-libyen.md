@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Auswärtiges Amt: Bericht zu KZ-ähnlichen Zuständen in libyschen Lagern bleibt geheim"
-date: '2016-10-09T09:00:23+01:00'
+title: "Auswärtiges Amt - Bericht zu KZ-ähnlichen Zuständen in libyschen Lagern bleibt geheim"
+date: '2016-10-09T10:00:23+01:00'
 tags: [Libyen]
 ---
 
