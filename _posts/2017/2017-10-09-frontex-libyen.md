@@ -23,4 +23,4 @@ Die amateurhaft wirkenden Vortragsmaterialien deuten darauf hin, dass die Schnel
 
 Dass Frontex selbst ein Training in Operational Security gebrauchen könnte, zeigen die Folien zur Verifizierung von Dokumenten. Die sind von Frontex so dilettantisch geschwärzt worden, dass sie mit geeigneten Programmen <a href="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=e66ee214-acd7-11e7-b263-0edaf8f81e27">mühelos entschwärzt werden können</a>.
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="693" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=e66ee214-acd7-11e7-b263-0edaf8f81e27"></iframe>
+<iframe frameborder="0" class="juxtapose" width="100%" height="693" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=3cd0bc80-acd9-11e7-b263-0edaf8f81e27"></iframe>
