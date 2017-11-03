@@ -7,7 +7,7 @@ tags: [Frontex]
 
 <a href="https://www.proasyl.de/news/eu-training-fuer-libysche-kuestenwache-menschenrechte-ueber-bord/">Seit einem Jahr</a> bildet die Europäische Grenzschutzagentur Frontex die sogenannte libysche Küstenwache aus. Ziel des Trainings soll es nach Aussage der EU sein, grundlegende Seefahrtskenntnisse und spezialisierte Kompetenzen zu vermitteln und dabei einen "substantiellen Fokus auf Menschenrechte und internationales Recht" zu legen.
 
-Nach einer <a href="https://www.asktheeu.org/en/request/training_materials#incoming-14581">Anfrage an Frontex veröffentlichte Unterlagen</a> zeigen jetzt, dass das nicht stimmt: Menschenrechte nehmen in den Materialien der Trainings nur einen sehr geringen Teil ein. Genauer: In insgesamt 20 Präsentationen und Vorträgen wird ihnen nur eine einzige Slide gewidmet.
+Nach einer <a href="https://www.asktheeu.org/en/request/training_materials#incoming-14581">Anfrage an Frontex veröffentlichte Unterlagen über AskTheEU.org</a> zeigen jetzt, dass das nicht stimmt: Menschenrechte nehmen in den Materialien der Trainings nur einen sehr geringen Teil ein. Genauer: In insgesamt 20 Präsentationen und Vorträgen wird ihnen nur eine einzige Slide gewidmet.
 
 <img src="/img/humanrights.gif">
 
