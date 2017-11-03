@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Menschenrechte am Rande: So trainiert Frontex die libysche Küstenwache"
-date: '2016-11-03T07:00:23+01:00'
+date: '2017-11-03T07:00:23+01:00'
 tags: [Frontex]
 ---
 
