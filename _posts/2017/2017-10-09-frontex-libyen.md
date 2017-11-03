@@ -13,7 +13,7 @@ Nach einer <a href="https://www.asktheeu.org/en/request/training_materials#incom
 
 Stattdessen thematisieren die Präsentationen und Handouts vor allem mögliche Anhaltspunkte für Menschenhandel, Verhör- und Dokumenationstechniken sowie den Umgang mit Wetter-Apps. Keine von ihnen geht wirklich ins Detail. Dass Teilnehmer durch den Workshop zu Verfechtern der Menschenrechte werden, erscheint ausgeschlossen.
 
-Eine <a href="/img/document_examination.pdf">34-seitige Powerpoint-Präsentation</a> den libyschen Trainees zeigt zum Beispiel, wie Ausweisdokumente untersucht werden können. Dafür greift Frontex neben Mr. Bean auf Fotos des Schauspielers Jonah Hill zurück.
+Eine <a href="/img/document_examination.pdf">34-seitige Powerpoint-Präsentation</a> erklärt den libyschen Trainees zum Beispiel, wie Ausweisdokumente untersucht werden können. Dafür greift Frontex neben Mr. Bean auf Fotos des Schauspielers Jonah Hill zurück.
 
 <img src="/img/jonahhill.jpg">
 
