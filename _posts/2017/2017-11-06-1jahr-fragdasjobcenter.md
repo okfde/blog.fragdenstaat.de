@@ -25,3 +25,5 @@ Das Berliner Jobcenter Friedrichshain-Kreuzberg [mussten wir sogar verklagen](ht
 Dass das IFG also in den deutschen Jobcentern “angekommen”, stimmt nicht. Die meisten von ihnen sind unerfahren im Umgang mit dem Gesetz, setzen es fehlerhaft oder zu restriktiv um und beachten die Antwortfristen um. Wir arbeiten daran, das zu ändern. Und ihr könnt mithelfen, indem ihr [mehr Anfragen an die Jobcenter](https://fragdenstaat.de/suche/?q=jobcenter) stellt.
 
 *Foto: [cucchiaio](https://www.flickr.com/photos/cucchiaio/), [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)*
+
+*Mitarbeit: Lea Schubert*
