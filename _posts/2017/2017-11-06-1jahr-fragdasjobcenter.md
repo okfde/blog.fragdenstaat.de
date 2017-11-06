@@ -22,7 +22,7 @@ Aber selbst die Jobcenter, die inzwischen geantwortet haben, verstießen größt
 
 Das Berliner Jobcenter Friedrichshain-Kreuzberg [mussten wir sogar verklagen](http://blog.fragdenstaat.de/2017/jobcenter-klage-erfolgreich/). Als es trotz klarer Rechtslage darauf bestand, einen Identitätsnachweis zur Antragsstellung zu fordern, zogen wir vors Berliner Verwaltungsgericht - und gewannen prompt. Als es die Weisungen anschließend trotzdem nicht gesammelt herausgegeben wollte, sendeten Nutzer*innen ein [paar Dutzend Anfragen](https://fragdenstaat.de/behoerde/jobcenter-berlin-friedrichshain-kreuzberg/), um das Jobcenter schließlich von der Herausgabe zu überzeugen.
 
-Dass das IFG also in den deutschen Jobcentern “angekommen” ist, stimmt nicht. Die meisten von ihnen sind unerfahren im Umgang mit dem Gesetz, setzen es fehlerhaft oder zu restriktiv um und beachten die Antwortfristen um. Wir arbeiten daran, das zu ändern. Und ihr könnt mithelfen, indem ihr [mehr Anfragen an die Jobcenter](https://fragdenstaat.de/suche/?q=jobcenter) stellt.
+Dass das IFG also in den deutschen Jobcentern “angekommen” ist, stimmt nicht. Die meisten von ihnen sind unerfahren im Umgang mit dem Gesetz, setzen es fehlerhaft oder zu restriktiv um und beachten die Antwortfristen nicht. Wir arbeiten daran, das zu ändern. Und ihr könnt mithelfen, indem ihr [mehr Anfragen an die Jobcenter](https://fragdenstaat.de/suche/?q=jobcenter) stellt.
 
 *Foto: [cucchiaio](https://www.flickr.com/photos/cucchiaio/), [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)*
 
