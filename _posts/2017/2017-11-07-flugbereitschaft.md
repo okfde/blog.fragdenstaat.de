@@ -21,5 +21,5 @@ Dass Wahlkampftermine in [Neuharlingersiel](https://www.cdu.de/termine/sommertou
 Der Einsatz der Hubschrauber der Bundeswehr ist also offensichtlich zumindest in einigen Fällen rechtswidrig gewesen. Die CDU-Vorsitzende hätte zu ihren Wahlkampfterminen mit privaten Anbietern fliegen müssen, statt einen großen Teil der Kosten den Steuerzahlern zu überlassen. 
 
 *Die [Richtlinien für den Einsatz von Luftfahrzeugen der Flugbereitschaft BMVg](https://fragdenstaat.de/files/foi/76569/richtlinie.pdf):*
-<embed src="https://fragdenstaat.de/files/foi/76569/richtlinie.pdf">
+<embed src="https://fragdenstaat.de/files/foi/76569/richtlinie.pdf" width="750" height="500" type="application/pdf" >
 
