@@ -5,9 +5,9 @@ date: '2017-11-09T07:00:23+01:00'
 tags: [BMJV]
 ---
 
-Über 70 Jahre nach Ende des Dritten Reichs ist der Geist der Nazis noch immer im deutschen Strafrecht zu spüren. Die von den Nazis eingeführten Paragrafen [211 und 212 des Strafgesetzbuchs](https://www.gesetze-im-internet.de/stgb/__211.html) (StGB) bestehen fort. Sie regeln die Straftatbestände Mord und Totschlag.
+Über 70 Jahre nach Ende des Dritten Reichs ist der Geist der Nazis noch immer im deutschen Strafrecht zu spüren. Die von den Nazis formulierten Paragrafen [211 und 212 des Strafgesetzbuchs](https://www.gesetze-im-internet.de/stgb/__211.html) (StGB) bestehen fort. Sie regeln die Straftatbestände Mord und Totschlag.
 
-Anders als in demokratische Gesetzen sind die beiden Paragrafen an der [Nazi-Ideologie der "Tätertypen"](https://de.wikipedia.org/wiki/T%C3%A4tertypologie) ausgerichtet. Es wird nicht beschrieben, *was* einen Mord oder Totschlag definiert. Die Paragrafen beschreiben, *wer* angeblich Mörder oder Totschläger ist.
+Anders als in Gesetzen einer Demokratie sind die beiden Paragrafen an der [Nazi-Ideologie der "Tätertypen"](https://de.wikipedia.org/wiki/T%C3%A4tertypologie) ausgerichtet. Es wird nicht beschrieben, *was* einen Mord oder Totschlag definiert. Die Paragrafen beschreiben, *wer* angeblich Mörder oder Totschläger ist.
 
 Der noch amtierende Bundesjustizminister Heiko Maas wollte das ändern. 2014 setzte sein Ministerium deswegen eine [Expertengruppe ein]( https://www.bmjv.de/DE/Ministerium/ForschungUndWissenschaft/ReformToetungsdelikte/ReformToetungsdelikte_node.html), um Reformmöglichkeiten des StGB auszuloten. Aus den Empfehlungen der Gruppe entwickelte das Ministerium einen Gesetzentwurf zur Reform der Tötungsdelikte im Strafrecht. Dann allerdings wurde es ruhig um das Vorhaben. 
 
