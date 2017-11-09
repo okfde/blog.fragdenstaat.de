@@ -17,7 +17,7 @@ Offensichtlich konnte sich Maas nämlich innerhalb der großen Koalition mit sei
 
 Das Justizministerium veröffentlichte noch nicht einmal seinen eigenen Reformvorschlag. Nach unserer [Anfrage nach dem IFG](https://fragdenstaat.de/anfrage/referentenentwurf-zur-reform-der-totungsdelikte/#nachricht-77838) ändert sich das. Wir veröffentlichen [hier erstmals den Reformvorschlag zu Tötungsdelikten im StGB](https://fragdenstaat.de/files/foi/77838/RefEReformderTtungsdelikte21.Mrz2016.pdf).
 
-**[Hier im schnellen Überblick alle Reformvorschlag im Änderungsmodus auf Github](https://github.com/arnese/odgesetz/commit/7d7c8d180370ab7082246981f5bfbd638785e5e0?short_path=c1ba091#diff-c1ba091b2d64eb5edfd9c15052c0ade5)**
+**[Hier im schnellen Überblick den Reformvorschlag im Änderungsmodus auf Github](https://github.com/arnese/odgesetz/commit/7d7c8d180370ab7082246981f5bfbd638785e5e0?short_path=c1ba091#diff-c1ba091b2d64eb5edfd9c15052c0ade5)**
 
 <embed src="https://fragdenstaat.de/files/foi/77838/RefEReformderTtungsdelikte21.Mrz2016.pdf" width="750" height="500" type="application/pdf">
 
