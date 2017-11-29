@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Burning the evidence: Deutschland informiert schlecht über Emissionen"
-date: '2017-11-18T11:00:23+01:00'
-tags: [UIG]
+title: "Unser Podcast auf allen Plattformen"
+date: '2017-11-29T17:00:23+01:00'
+tags: [Podcast]
 ---
 
-Nach einem Bericht des Europäischen Umweltbüros stellt Deutschland im europäischen Vergleich besonders wenige Daten über Schadstoffe online bereit. Außerdem kritisiert die Organisation die deutsche Praxis, für Auskünfte Gebühren zu verlangen.
-
-[Zum gesamten Bericht](http://eeb.org/most-eu-countries-failing-to-ensure-effective-access-to-industrial-pollution-information/)
+Unser wöchentlicher Podcast "Wer nicht fragt, bleibt dumm" mit [detektor.fm](https://detektor.fm/) ist jetzt auf allen gängigen Plattformen zu finden: Kostenlos auf [Spotify](https://open.spotify.com/show/7bVFwh0yg01Tk49T5rInzx), auf [iTunes](https://itun.es/de/8bjxeb.c) und im [RSS-Feed](https://feeds.feedburner.com/detektorfm_frag-den-staat). Bald schon mit Folge 50! 
