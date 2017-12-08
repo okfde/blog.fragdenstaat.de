@@ -4,7 +4,7 @@ title: "Schwarz-grün in Hessen will schlechtestes Informationsfreiheitsgesetz D
 date: '2017-12-08T10:00:23+01:00'
 tags: [Hessen]
 ---
-<b>Nach dem Willen der schwarz-grünen Regierung in Hessen soll ein neues Datenschutz- und Informationsfreiheitsgesetz kommen. Der Entwurf hat mit Informationsfreiheit allerdings nicht viel zu tun: Er sieht vor, dass weder Gemeinden und Landkreise noch Polizei und Verfassungsschutz Auskunft geben müssen.</b>
+<strong>Nach dem Willen der schwarz-grünen Regierung in Hessen soll ein neues Datenschutz- und Informationsfreiheitsgesetz kommen. Der Entwurf hat mit Informationsfreiheit allerdings nicht viel zu tun: Er sieht vor, dass weder Gemeinden und Landkreise noch Polizei und Verfassungsschutz Auskunft geben müssen.</strong>
 
 <img src="https://cdn.netzpolitik.org/wp-upload/2017/12/blockupy-860x484.jpg">
 
