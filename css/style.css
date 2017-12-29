@@ -80,7 +80,7 @@ li {
   line-height: 1.4;
 }
 
-img {
+img, embed {
   max-width: 100%;
   display: block;
   margin: 0 auto;
