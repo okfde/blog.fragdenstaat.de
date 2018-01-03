@@ -5,7 +5,7 @@ date: '2018-01-03T10:00:23+01:00'
 tags: [2017]
 ---
 
-**[von Markus Drenger](https://twitter.com/reg_nerd/)**
+*[von Markus Drenger](https://twitter.com/reg_nerd/)*
 
 Das Informationsfreiheitsgesetz ermöglicht es, von öffentlichen Stellen Fragen zu stellen und Informationszugang zu Akten und Unterlagen
 zu verlangen. Auskünfte können "[mündlich, schriftlich oder elektronisch erteilt werden.](https://www.gesetze-im-internet.de/ifg/__7.html)" Unter einer elektronischen Antragsstellung wird üblicherweise das Schreiben von Emails verstanden, allerdings ist "elektronisch"
