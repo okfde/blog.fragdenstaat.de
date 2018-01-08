@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Weitere Klage gewonnen: Wissenschaftliche Dienste von Landtagen auskunftspflichtig"
+title: "Weitere Klage gewonnen: Wissenschaftliche Dienste von Landtagen auskunftspflichtig (Update)"
 date: '2018-01-05T12:50:23+02:00'
 tags: [Rheinland-Pfalz]
 
@@ -29,3 +29,5 @@ Für den Landtag in Schleswig-Holstein kommt das Urteil allerdings zu spät. Dor
 Der Landtag Rheinland-Pfalz muss die Kosten der Klage tragen. Trotzdem müssen wir für die Klage insgesamt rund 1000 Euro an Extra-Anwaltsgebühren und Fahrtkosten nach Mainz zahlen. Deswegen freuen wir uns, wenn Du uns <a href="https://fragdenstaat.de/hilfe/spenden/">mit einer Spende unterstützen könntest</a>.
 
 Weitere Klagen unterstützen wir gemeinsam mit der Gesellschaft für Freiheitsrechte in unserem Projekt mit Anwälten und Geld - unter <a href="https://transparenzklagen.de/">transparenzklagen.de</a>.
+
+Update, 08.01.2017: Laut epd will der rheinland-pfälzische Landtagspräsident Hering (SPD) das Urteil nicht akzeptieren. Deswegen wird der Landtag Nichtzulassungsbeschwerde einlegen.
