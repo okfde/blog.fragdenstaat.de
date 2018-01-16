@@ -22,3 +22,5 @@ Seit einem Bericht des „Stern” und von „heise.de” [geleakten Dokumenten]
 BuzzFeed News hat auch die Bundespolizei und das Bundesinnenministerium um eine Kopie des FBI-Gutachtens gebeten - jedoch vergeblich: „Da ein solches Gutachten weder im Bundesministerium des Innern noch im Bundespolizeipräsidium bekannt ist, kann Ihrer Bitte (...) nicht entsprochen werden. Darüber hinaus kann ich Ihnen mitteilen, dass es ein solches Ersuchen der Bundespolizei an das FBI, wie von Ihnen dargelegt, nie gegeben hat", antwortet eine Sprecherin.
 
 Der Spiegel und andere Medien hatten erstmals im Frühjahr 2012 von dem Gutachten berichtet. Vom sogenannten „Nationalsozialistischen Untergrund” wurden zwischen 2000 und 2006 zehn Morde verübt. Die Mordserie blieb lange Zeit unentdeckt, die Aufklärung geht auch Jahre später nur [sehr schleppend voran](https://www.taz.de/!5474040/).
+
+*Anfragen ans FBI können online von allen Menschen gestellt werden auf [https://efoia.fbi.gov/](https://efoia.fbi.gov/)*
