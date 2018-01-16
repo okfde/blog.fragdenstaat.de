@@ -5,7 +5,7 @@ date: '2018-01-16T12:50:23+02:00'
 tags: [FBI]
 
 ---
-*[ebenfalls erschiedenen auf Buzzfeed](https://www.buzzfeed.com/arnesemsrott/fbi-haelt-nsu-gutachten-weiter-geheim)*
+*[ebenfalls erschienen auf Buzzfeed](https://www.buzzfeed.com/arnesemsrott/fbi-haelt-nsu-gutachten-weiter-geheim)*
 
 Das FBI hält ein Gutachten zu den Morden des sogenannten „Nationalsozialistischen Untergrunds“ (NSU) weiter geheim. Das ist das Ergebnis einer Anfrage, die BuzzFeed News Deutschland an das FBI und das US-Justizministerium gestellt hat.
 
