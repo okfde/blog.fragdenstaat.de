@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verwaltungsgericht: Bundesregierung muss Zahl an Anwälte offenlegen"
+title: "Verwaltungsgericht: Bundesregierung muss Zahlungen an Anwälte offenlegen"
 date: '2018-01-18T12:50:23+02:00'
 tags: [Anwaltkosten]
 
