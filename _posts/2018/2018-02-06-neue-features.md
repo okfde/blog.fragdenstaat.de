@@ -3,7 +3,6 @@ layout: post
 title: "Soft Relaunch von FragDenStaat: Projekt-Anfragen, Design, Features"
 date: '2018-02-06T12:50:23+02:00'
 tags: [FragDenStaat]
-published: false
 
 ---
 
