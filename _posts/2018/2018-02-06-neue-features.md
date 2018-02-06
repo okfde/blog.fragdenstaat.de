@@ -28,8 +28,8 @@ Wer Anfragen vorbereiten, aber noch nicht abschicken will, kann sie neuerdings a
 
 Eine Person im Recherche-Team hat eine Projekt-Anfrage gesendet, aber will sie nicht alleine betreuen? Mit unserer neuen Team-Funktion können User anderen Personen Zugriff auf ihre eigenen Anfragen geben. Die Funktion ist noch in der Beta-Version und kann gern auf Zuruf unter info@fragdenstaat.de freigeschaltet werden.
 
-Wir sind aber noch nicht fertig! Wir freuen uns über Bug-Reports, Wünsche und Lösungsvorschläge auf Github.
+Wir sind aber noch nicht fertig! Wir freuen uns über [Bug-Reports, Wünsche und Lösungsvorschläge auf Github](https://github.com/okfde/fragdenstaat_de/issues).
 
-Einen großen Teil der Veränderungen können wir mithilfe der Unterstützung vom Medieninnovationszentrum Berlin-Babelsberg umsetzen. Vielen Dank dafür!
+Einen großen Teil der Veränderungen können wir mithilfe der Unterstützung vom [Medieninnovationszentrum Babelsberg](http://miz-babelsberg.de/) umsetzen. Vielen Dank dafür!
 
 
