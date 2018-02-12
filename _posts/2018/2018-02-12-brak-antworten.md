@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Abgebrakte Antworten"
-date: '2018-02-06T09:50:23+02:00'
+date: '2018-02-12T09:50:23+02:00' 
 tags: [BRAK]
-published: false
 ---
 
 Dass die Bundesrechtsanwaltskammer (BRAK) mit der Entwicklung des elektronischen Anwaltspostfachs beA ausgesprochen [schlecht beraten und überfordert war](https://logbuch-netzpolitik.de/lnp242-make-%c2%a7%c2%a7%c2%a7-fast), lässt sich zum Teil damit erklären, dass sich Rechtsanwälte nur selten mit IT auskennen. 
