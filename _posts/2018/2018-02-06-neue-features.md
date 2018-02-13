@@ -32,4 +32,4 @@ Wir sind aber noch nicht fertig! Wir freuen uns über [Bug-Reports, Wünsche und
 
 Einen großen Teil der Veränderungen können wir mithilfe der Unterstützung vom [Medieninnovationszentrum Babelsberg](http://miz-babelsberg.de/) umsetzen. Vielen Dank dafür!
 
-![MIZ]({{ "/img/miz-logo_v0_schrift_unten_WEISS.png" }})
+<img src="/img/miz-logo_v0_schrift_unten_WEISS.png" style="padding: 10px; background-color: lightgrey;" alt="Logo des Medieninnovationszentrum Babelsberg" />
