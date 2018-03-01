@@ -6,7 +6,7 @@ tags: [Libyen]
 published: false
 ---
 
-Sieben Jahre nach dem Tod des Diktators Muammar al-Gaddafi ist Libyen wieder ein wichtiger Partner der Europäischen Union. Obwohl das Land weiterhin von internen Machtkämpfen gezeichnet ist, wird die Zusammenarbeit der EU mit dem nordafrikanischen Staat immer enger. Jüngst beschloss etwa Italien, Libyen an (das Kommunikationssystem der italienischen Marine)[https://www.heise.de/tp/features/Libyen-widerruft-Seenotrettungszone-3927846.html] anzuschließen. 
+Sieben Jahre nach dem Tod des Diktators Muammar al-Gaddafi ist Libyen wieder ein wichtiger Partner der Europäischen Union. Obwohl das Land weiterhin von internen Machtkämpfen gezeichnet ist, wird die Zusammenarbeit der EU mit dem nordafrikanischen Staat immer enger. Jüngst beschloss etwa Italien, Libyen an [das Kommunikationssystem der italienischen Marine](https://www.heise.de/tp/features/Libyen-widerruft-Seenotrettungszone-3927846.html) anzuschließen. 
 
 Offensichtlich führt die Asylpolitik der Europäischen Union dazu, dass Flüchtlinge völkerrechtswidrig nach Libyen abgeschoben werden. Das ARD-Magazin Monitor beschreibt etwa, dass "libysche Milizen offenbar keinerlei Hemmungen haben, Menschenleben zu opfern, wenn es nur darum geht, die europäische Abschottungspolitik durchzusetzen."
 
