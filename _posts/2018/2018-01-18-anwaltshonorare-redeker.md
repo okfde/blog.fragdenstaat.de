@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verwaltungsgericht: Bundesregierung muss Zahlungen an Anwälte offenlegen"
+title: "Verwaltungsgericht: Bundesregierung muss Zahlungen an Anwälte offenlegen (Update)"
 date: '2018-01-18T12:50:23+02:00'
 tags: [Anwaltkosten]
 
@@ -18,3 +18,4 @@ Das Innenministerium wird voraussichtlich Rechtsmittel gegen das Urteil einlegen
 
 Redeker Sellner Dahs wird häufig von der Bundesregierung unter anderem in IFG-Verfahren eingesetzt, um Auskunftsanfragen abzuwehren. In zwei Verfahren um die Offenlegung von Gutachten des Wissenschaftlichen Dienstes und Hausausweise zahlte die Bundestagsverwaltung der Kanzlei [etwa 100.000 Euro](https://www.abgeordnetenwatch.de/blog/2015-12-08/anwaltsrechnungen-hausausweise-gutachten).
 
+Update, 04.03.: Das Innenministerium hat beim Oberverwaltungsgericht [Revision eingelegt](http://blog.eichhoernchen.fr/post/Offenlegung-von-Anwaltsrechnungen%E2%80%93Bundesregierung-mauert-weiter-zu).
