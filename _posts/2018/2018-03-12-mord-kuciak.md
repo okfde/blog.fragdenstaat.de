@@ -2,12 +2,10 @@
 layout: post
 title: "Der Mord an Ján Kuciak betrifft auch uns"
 date: '2018-02-13T12:30:23+02:00' 
-tags: [Libyen]
-published: false
+tags: [Jan Kuciak]
 ---
 
-Wir gedenken des slowakischen Journalisten Ján Kuciak, der Ende Februar gemeinsam mit seiner Verlobten Martina Kušnírová [ermordet wurde](http://www.spiegel.de/politik/ausland/slowakei-nach-mord-an-jan-kuciak-das-ist-kein-normales-land-a-1196730.html
-). Offenbar hängt sein Tod auch mit seinen Recherchen nach dem slowakischen Informationsfreiheitsgesetz zusammen. Den slowakischen Behörden wird vorgeworfen, im Rahmen einer Anfrage Kuciaks Daten an Dritte weitergeleitet zu haben – wodurch seine künftigen Mörder überhaupt erst auf seine Recherchen aufmerksam wurden.
+Wir gedenken des slowakischen Journalisten Ján Kuciak, der Ende Februar gemeinsam mit seiner Verlobten Martina Kušnírová [ermordet wurde](http://www.spiegel.de/politik/ausland/slowakei-nach-mord-an-jan-kuciak-das-ist-kein-normales-land-a-1196730.html). Offenbar hängt sein Tod auch mit seinen Recherchen nach dem slowakischen Informationsfreiheitsgesetz zusammen. [Den slowakischen Behörden wird vorgeworfen](https://www.occrp.org/en/amurderedjournalistslastinvestigation/freedom-of-information-law-reporters-best-friend-or-killer), im Rahmen einer Anfrage Kuciaks Daten an Dritte weitergeleitet zu haben – wodurch seine künftigen Mörder überhaupt erst auf seine Recherchen aufmerksam wurden.
 
 Der Mord an Kuciak und Kušnírová zeigt, wie wichtig das Recht auf anonyme Antragstellungen sind. Wir fordern deswegen alle deutschen Behörden auf, auch anonyme Anfragen zu bearbeiten. 
 
