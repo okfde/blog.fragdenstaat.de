@@ -11,7 +11,7 @@ tags: [Jan Kuciak]
 
 [Den slowakischen Behörden wird vorgeworfen](https://www.occrp.org/en/amurderedjournalistslastinvestigation/freedom-of-information-law-reporters-best-friend-or-killer), im Rahmen einer Anfrage Kuciaks Daten an Dritte weitergeleitet zu haben – wodurch seine künftigen Mörder überhaupt erst auf seine Recherchen aufmerksam wurden.
 
-Der Mord an Kuciak und Kušnírová zeigt, wie wichtig das Recht auf anonyme Antragstellungen sind. Wir fordern deswegen alle deutschen Behörden auf, auch anonyme Anfragen zu bearbeiten. 
+Der Mord an Kuciak und Kušnírová zeigt, wie wichtig das Recht auf anonyme Antragstellungen ist. Wir fordern deswegen alle deutschen Behörden auf, auch anonyme Anfragen zu bearbeiten. 
 
 Der Fall betrifft uns bei FragDenStaat besonders. Wir tragen eine große Verantwortung dafür, dass Menschen, die unser Portal nutzen und Anträge an Behörden stellen, sich zurecht sicher fühlen können. Deswegen bieten wir die Möglichkeit an, Anfragen unter einem Pseudonym zu stellen. 
 
