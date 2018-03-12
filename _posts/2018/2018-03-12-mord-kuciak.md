@@ -25,6 +25,6 @@ Theoretisch ist eine Konstellation wie im Fall von Kuciak auch in Deutschland m�
 
 Wir haben in den Standardtext für Anfragen über FragDenStaat jetzt einen Absatz hinzugefügt, in dem Antragstellende der Weitergabe ihrer Daten an Dritte ausdrücklich widersprechen. Für eine starke Informationsfreiheit braucht es starken Datenschutz.
 
-Wir fordern das Bundesinnenministerium und die zuständigen Ministerien der Bundesländer auf, entsprechende Regelungen in die Informationsfreiheitsgesetze bzw. die Anwendungshinweise aufzunehmen. Regelungen, die Antragsteller in Gefahr bringen könnten, müssen beseitigt werden!
+Wir fordern das Bundesinnenministerium und die zuständigen Ministerien der Bundesländer auf, entsprechende Regelungen in die Informationsfreiheitsgesetze bzw. die Anwendungshinweise dazu aufzunehmen. Regelungen, die Antragssteller in Gefahr bringen könnten, müssen beseitigt werden!
 
 *Foto: [Peter Tkac](https://www.flickr.com/photos/peter_tkac/40573939452/in/photolist-253Etwv-24E7RcG-24T4Wp2-23qczvX-24MkRSF-GKjhC3-24T4ZjR-23vYtEt-GU8C4W-24T57k4-Fe3gWH-24Po5Ku-Fe39AF-24Po3Cd-24Po6nS-G4H8X5-GJNSPQ-Gz6sgC-23vYvw4-F8T7XD-GKjboQ-Fe399t-23vYt2V), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)*
