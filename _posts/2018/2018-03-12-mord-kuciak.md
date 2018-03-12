@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Der Mord an Ján Kuciak betrifft auch uns"
-date: '2018-02-13T12:30:23+02:00' 
+date: '2018-03-12T12:30:23+02:00' 
 tags: [Jan Kuciak]
 ---
 
